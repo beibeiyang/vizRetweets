@@ -26,7 +26,7 @@ For example:
 		- retweets.bigdata.html
 		- retweets.bigdata.json
 
-	Launch retweets.bigdata.html in Firefox, Chrome or Safari.
+	Launch out/retweets.bigdata.html in Firefox, Chrome or Safari.
 
 
 
