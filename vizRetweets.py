@@ -133,7 +133,6 @@ def get_rt_origins(tweet):
 twitter_search = twitter.Twitter(domain="search.twitter.com")
 search_results = []
 for page in range(1,6):
-    #search_results.append(twitter_search.search(q="#bigdata", rpp=100, page=page))
     search_results.append(twitter_search.search(q=Q, rpp=100, page=page))
 
 # Build up a graph data structure
