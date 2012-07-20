@@ -21,7 +21,7 @@ For example:
 	
 	This will retrieve all the users on retweets that contain the #bigdata hashtag.
 	
-	Directory out will be created. Inside you would find:
+	Directory "out" will be created. Inside you would find:
 		- retweets.bigdata.dot
 		- retweets.bigdata.html
 		- retweets.bigdata.json
