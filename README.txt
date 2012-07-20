@@ -3,7 +3,7 @@ Simple Visualization on Retweets
 Based on the example from book Mining the Social Web, by Matthew A. Russell:
 http://www.amazon.com/Mining-Social-Web-Analyzing-Facebook/dp/1449388345
 
-Improved by Beibei Yang (byang1@cs.uml.edu)
+Improved by Beibei Yang (byang1 @ cs.uml.edu)
 
 Required libraries:
 	- twitter (https://github.com/sixohsix/twitter/)
