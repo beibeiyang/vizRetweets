@@ -1,11 +1,36 @@
 # -*- coding: utf-8 -*-
-#################################################################
+###############################################################################
+##
+## Simple Visualization of users who retweet on a specific keyword
+##
+## Copyright (c) 2012-2014 Beibei Yang <byang1@cs.uml.edu>
+##
+## Permission is hereby granted, free of charge, to any person
+## obtaining a copy of this software and associated documentation
+## files (the "Software"), to deal in the Software without
+## restriction, including without limitation the rights to use,
+## copy, modify, merge, publish, distribute, sublicense, and/or sell
+## copies of the Software, and to permit persons to whom the
+## Software is furnished to do so, subject to the following
+## conditions:
+
+## The above copyright notice and this permission notice shall be
+## included in all copies or substantial portions of the Software.
+
+## THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+## EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+## OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+## NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+## HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+## WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+## FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+## OTHER DEALINGS IN THE SOFTWARE.
+##
+###############################################################################
 ##
 ## Based on the introduction__retweet_visualization.py from book
 ## Mining the Social Web, by Matthew A. Russell:
 ##  http://www.amazon.com/Mining-Social-Web-Analyzing-Facebook/dp/1449388345
-##
-## Improved by Beibei Yang (byang1 @ cs.uml.edu)
 ##
 ## Required libraries:
 ##  - twitter (https://github.com/sixohsix/twitter/)
@@ -18,10 +43,11 @@
 ## For example:
 ##      python vizRetweets.py #bigdata
 ##
-## This will retrieve all the users on retweets that contain 
-## the #bigdata hashtag.
+##      This will retrieve all the users on retweets that contain
+##      the #bigdata hashtag.
 ##
-##################################################################
+##
+###############################################################################
 
 import sys
 import os
@@ -44,7 +70,6 @@ OUT_DIR = 'out'
 # A Json file to output the twitter data
 OUT_JSON = '.'.join ( ['retweets', Qname, 'json'])
 OUT = os.path.basename(HTML_TEMPLATE)
-
 
 
 # Writes out a DOT language file that can be converted into an 
@@ -83,7 +108,7 @@ def write_dot_output(g, out_file):
 
 # Writes out an HTML page that can be opened in the browser
 # that displays a graph 
-def write_protovis_output(g, jsonfile):
+def write_d3_output(g, jsonfile):
     nodes = g.nodes()
     indexed_nodes = {}
 
@@ -93,11 +118,13 @@ def write_protovis_output(g, jsonfile):
         idx += 1
 
     links = []
+    avatars = {}
     for n1, n2 in g.edges():
         links.append({'source' : indexed_nodes[n2], 
                       'target' : indexed_nodes[n1]})
+        avatars[n2] = g[n1][n2]['avatar']
 
-    json_data = json.dumps({"nodes" : [{"nodeName" : n} for n in nodes], "links" : links}, indent=4)
+    json_data = json.dumps({"nodes" : [{"nodeName" : n} for n in nodes], "links" : links, "avatars" : avatars}, indent=4)
 
     f = open(os.path.join(os.getcwd(), jsonfile), 'w')
     f.write(json_data)
@@ -133,6 +160,7 @@ def get_rt_origins(tweet):
 twitter_search = twitter.Twitter(domain="search.twitter.com")
 search_results = []
 for page in range(1,6):
+    #search_results.append(twitter_search.search(q="#bigdata", rpp=100, page=page))
     search_results.append(twitter_search.search(q=Q, rpp=100, page=page))
 
 # Build up a graph data structure
@@ -156,6 +184,6 @@ print >> sys.stderr, "Node degrees:", sorted(nx.degree(g))
 # Write Graphviz output
 write_dot_output(g, OUT)
 
-# Write Protovis output and open in browser
-protovis_output = write_protovis_output(g, os.path.join(OUT_DIR, OUT_JSON) )
-webbrowser.open('file://' + protovis_output)
+# Write d3 output and open in browser
+d3_output = write_d3_output(g, os.path.join(OUT_DIR, OUT_JSON) )
+webbrowser.open('file://' + d3_output)
