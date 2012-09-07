@@ -94,7 +94,7 @@ def write_dot_output(g, out_file):
         # the same output write_dot would provide for this graph
         # if installed and easy to implement
 
-        dot = ['"%s" -> "%s" [tweet_id=%s, avatar=%s]' % (n1, n2, g[n1][n2]['tweet_id'], g[n1][n2]['avatar'])
+        dot = ['"%s" -> "%s" [tweet_id=%s, text=%s, avatar=%s]' % (n1, n2, g[n1][n2]['tweet_id'], g[n1][n2]['text'], g[n1][n2]['avatar'])
                for (n1, n2) in g.edges()]
         f = codecs.open(os.path.join(os.getcwd(),  OUT_DIR, out_file), 'w', encoding='utf-8')
         f.write('''strict digraph {
@@ -119,12 +119,14 @@ def write_d3_output(g, jsonfile):
 
     links = []
     avatars = {}
+    texts = {}
     for n1, n2 in g.edges():
-        links.append({'source' : indexed_nodes[n2], 
-                      'target' : indexed_nodes[n1]})
+        links.append({ 'source' : indexed_nodes[n2],
+                       'target' : indexed_nodes[n1]})
         avatars[n2] = g[n1][n2]['avatar']
+        texts[n2] = g[n1][n2]['text']
 
-    json_data = json.dumps({"nodes" : [{"nodeName" : n} for n in nodes], "links" : links, "avatars" : avatars}, indent=4)
+    json_data = json.dumps({"nodes" : [{"nodeName" : n} for n in nodes], "links" : links, "avatars" : avatars, "texts" : texts }, indent=4)
 
     f = open(os.path.join(os.getcwd(), jsonfile), 'w')
     f.write(json_data)
@@ -158,6 +160,7 @@ def get_rt_origins(tweet):
 
 # Get some search results for a query
 twitter_search = twitter.Twitter(domain="search.twitter.com")
+
 search_results = []
 for page in range(1,6):
     #search_results.append(twitter_search.search(q="#bigdata", rpp=100, page=page))
@@ -167,13 +170,14 @@ for page in range(1,6):
 g = nx.DiGraph()
 
 all_tweets = [tweet for page in search_results for tweet in page['results']]
+
 for tweet in all_tweets:
     rt_origins = get_rt_origins(tweet['text'])
     if not rt_origins:
         continue
     for rt_origin in rt_origins:
-        g.add_node(tweet['from_user'], {'avatar': tweet['profile_image_url']} )
-        g.add_edge(rt_origin, tweet['from_user'], {'tweet_id': tweet['id'], 'avatar': tweet['profile_image_url']})
+        g.add_node(tweet['from_user'], {} )
+        g.add_edge(rt_origin, tweet['from_user'], {'tweet_id': tweet['id'], 'avatar': tweet['profile_image_url'], 'text': tweet['text']})
 
 # Print out some stats
 print >> sys.stderr, "Number nodes:", g.number_of_nodes()

@@ -1,55 +1,206 @@
 {
+    "texts": {
+        "MeghanMBiro": "RT @talentmgmttech: Q3: How do #BigData &amp; #socialmedia figure into #IBM\u2019s acquisition of #Kenexa? #HRTechChat", 
+        "CareerGravity": "RT @talentmgmttech: Q3: How do #BigData &amp; #socialmedia figure into #IBM\u2019s acquisition of #Kenexa? #HRTechChat", 
+        "lirons": "RT @mich8elwu: Do u know the difference btwn Data &amp; Information? http://t.co/NBwhvbz3 #crm #scrm #bigData #e2 #cmo #cio -- Nice points!", 
+        "Indravailable": "RT @CloudExpo: Will you be the lucky delegate to drive away in a Mercedes? Register today! #Cloud #CloudExpo #CloudComputing #BigData ht ...", 
+        "KLoweryVR": "RT @ventanaresearch: Looking to gain better insights into #bigdata, #predictiveanalytics or mobile tech? Join us on Nov. 8th: http://t.c ...", 
+        "timjpowers": "20 Things To Know About How #BigData Is Changing Schools (infographic) http://t.co/i1zHnSCI (via @edudemic)", 
+        "javaun": "RT @digiphile: @powdoug @PDOsborne @RC_Xuber @javaun @cjr The pattern goes deep http://t.co/Wsw8BvV9 #bigdata #opendata", 
+        "TheClarityWay": "RT @Teradata: #Analytics \u2013 The Next Wave of #BigData: A Q&amp;A Spotlight with Steve Wooledge of Teradata Aster http://t.co/ZFUltpnZ  @t ...", 
+        "thorhalvor": "RT @webstep: @Ayende, #BigData, #NoSQL, #RavenDB, Webstep i Trondheim. Britannia Hotel 29. - 30 september: http://t.co/PfQZEoAw", 
+        "RRojo619": "RT @brentskinner: -&gt; MRT @heathpropper: A1:SAP &amp; Oracle need expand #bigdata #analytics suite &amp; srvcs 2 sway (cont) http://t.co/IxoHAdgg", 
+        "jaswani": "RT @gkm1: The pendulum is swinging toward tools &amp; automation to solve #BigData problems vs. lamenting about the lack of skills: http ...", 
+        "IrsjadC": "RT @MaureenOGara: Intel Puts Squeeze on Power Consumption \u25b8 http://t.co/XYqIuz0n #Cloud #CloudExpo #CloudComputing #BigData", 
+        "systemsflow": "RT @Khakhar Do You Need a Data Dictator? http://t.co/K39HKsMB via @mitsmr Is #EntArch your data dictator?  #bigdata", 
+        "darachennis": "RT @PritimanPanda: Paper : A Map-Reduce-Like System for Emerging Parallel #Architectures http://t.co/EGSYOLpL | #bigdata #hadoop", 
+        "MDMGeek": "The New Era of Big Data Management: Where to Start. @Dataversity  http://t.co/lx7YrOlz #bigdata #datamanagement via @HaleChris", 
+        "jillfitz04": "RT @EMCbigdata: #EMC Taps Alpine As SAS Alternative For #BigData #Analytics http://t.co/Hwh77p4s", 
+        "ceraitinc": "RT @aoladi: #BigData globally to be worth 25B$ by 2015  http://t.co/bq1eQYcZ", 
+        "agiledss": "RT @businessobjects: SAP Unveils New Suite of Analytics Innovations that Turn Firms\u2019 #bigdata\u2019Into \u2018Intelligent\u2019 Data http://t.co/6YUGUhDH", 
+        "bobtricarico": "RT @jasonaverbook: How #BigData can be used to power your #business\u2192 http://t.co/766yFOHn #HRblog #HCM #employees #HR", 
+        "willynet": "RT @MSFTenterprise: How to Succeed with Big Data\nhttp://t.co/6mqL4E0d #BigData. From planning stages to what you actually need to put in ...", 
+        "snakeynag": "RT @markrotoole: Big Data in MA http://t.co/oYOoc46y via @BostonDotCom #startups #BigData &lt;- great universities ALWAYS drive the economy", 
+        "darronbatton": "RT @CenturyLinkBiz: Real life #BigData use cases. Farmers harnessing data to predict weather drought's damage, via @Wired_Business http: ...", 
+        "lletourmy": "RT @enovance: \"Un premier pas vers le #BigData pour quelques centaines d\u2019euros\" ? Notre partenaire #Ysance explique: http://t.co/nTo90jrA", 
+        "saffrontech": "Risk Intelligence RT @paul_hofmann: Facebook Monitors Your Chats for Criminal Activity: http://t.co/2rH21evY #bigdata analytics", 
+        "JoshMoskowitz": "Using #bigdata to predict the future before your rivals: http://t.co/ezHgI6Ki via @harvardbiz @jeffreyrayport", 
+        "alexio": "As social data grows, researchers want to uncover its secrets http://t.co/T7ftkNQ2 via @zite #bigdata #socialmedia", 
+        "brentskinner": "RT @talentmgmttech: Q3: How do #BigData &amp; #socialmedia figure into #IBM\u2019s acquisition of #Kenexa? #HRTechChat", 
+        "marcusborba": "RT @OrrickTA: Watch our #bigdata video w/@romanstanek, @davidhornik, @dpatil @jflomenb @bwerther &amp; @splunk! cc @dkellerjr http://t.c ...", 
+        "josuebw": "RT @infomgmtpartner: Recorded webcast for #ibmpartners: Cross-selling &amp; upselling #IBMNetezza http://t.co/IEemFBYe #bigdata -Interesante!...", 
+        "SeanPODowd": "$TDC Teradata's @swooledge talks about #Analytics \u2013 The Next Wave of #BigData: http://t.co/w3PBj05o via @BeyeNETWORK @asterdata @Teradata", 
+        "BestOfAnalytics": "RT @CenturyLinkBiz: Real life #BigData use cases. Farmers harnessing data to predict weather drought's damage, via @Wired_Business http: ...", 
+        "vipsgupta": "The #BigData Daily is out! http://t.co/VD8zlq5Q \u25b8 Top stories today via @pbsoftwareAmer @cer3na @benwatson", 
+        "JennMarquez": "RT @marcusborba: The New Era of Big Data Management: Where to Start http://t.co/Zhy4HV3f #Analytics #BigData #DataManagement", 
+        "Ashley_MW": "RT @prezi: Check out this Tech Trailblazers prezi: http://t.co/OV5j5IHv Final call for entries is Sep 12th #TTAwards #bigdata #cloud", 
+        "GilPress": "RT @BigDataPVSW: Estab IT cos w/o open source exp will 'buy their way' into #BigData market - @jimkaskade  http://t.co/0k4IqQpY  From @G ...", 
+        "trismartgrid": "RT @Internet_Summit: Great content this year @Internet_Summit 2012! http://t.co/zG4Um2A5 #ISum12 #Social #Mobile #SEO #BigData #Cloud", 
+        "RawlinsonSimon": "Keeping it clean \"@IBM_NEWS: Managing sewage like traffic, thanks to\u00a0#bigdata http://t.co/4KAb2lMt via @gigaom\"", 
+        "ReneeBain": "RT @IBMSmrtrCmptng: Is your IT infrastructure #Cloud #BigData #EntSys ready? 10/3 #SmarterComputing webcast - register: http://t.co/Q13QxqhR", 
+        "TimKersjes": "Hoe verzamelt u social data (#twitter, #facebook) voor #BigData #Analytics? Expert @rianne_k van @oxyme vertelt hoe: http://t.co/9z4mCUWh", 
+        "Ulitzer": "RT @CloudExpo: Flashback: Discussing how #Cloud transforms IT at @EMCcorp booth @CloudExpo NY. #CloudExpo #CloudComputing #BigData http: ...", 
+        "OfficeWriter": "#BigData, Better Conferences: From Strata to Visualized - Save these 6 dates http://t.co/HOVmz3WV via @ripariandata", 
+        "BigDataExpo": "RT @CloudExpo: Flashback: Discussing how #Cloud transforms IT at @EMCcorp booth @CloudExpo NY. #CloudExpo #CloudComputing #BigData http: ...", 
+        "GonzalezCarmen": "RT @CloudExpo: Flashback: Discussing how #Cloud transforms IT at @EMCcorp booth @CloudExpo NY. #CloudExpo #CloudComputing #BigData http: ...", 
+        "andydances": "RT @ReardenSmart: Interesting read from @qhardy @nytimesbits on how #BigData can help people monitor and track their personal health htt ...", 
+        "bhsduncan": "RT @LuxNoSQL: Neo4j 1.8 Realease Candidate 1 has been released\n\nhttp://t.co/wWbVMMOW\n\n#bigdata #nosql #neo4j #release #graphdb", 
+        "dartdog": "RT @mgualtieri: RT @CenterDigital: Pleased to welcome @mgualtieri to @TuckSchool this month to discuss #bigdata http://t.co/ezPmC7CM htt ...", 
+        "cfoundryexpo": "RT @CloudExpo: Flashback: @GonzalezCarmen and @robustcloud at @CloudExpo New York! #Cloud #CloudExpo #CloudComputing #BigData http://t.c ...", 
+        "alteryx": "RT @gkm1: The pendulum is swinging toward tools &amp; automation to solve #BigData problems vs. lamenting about the lack of skills: http ...", 
+        "ActiveArchive": "RT @MartyFoltyn: Last opp for vendors to take adv of #handson at #SNWUSA in #cloud #virt #bigdata and #SAN. Details @ http://t.co/cOmVaSdN", 
+        "LexisNexis": "RT @GillisMatt: Hear my impressions of #ILTA12 with observations around #bigdata, @LexisNexis coverage of EDRM #ediscovery http://t.co/W ...", 
+        "MikeLevitz": "RT @bradbennett: Less than a quarter of marketing departments know what to do with social data http://t.co/XqcTN3x9 #sm #bigdata #analytics", 
+        "SMSSocialHR": "RT @talentmgmttech: Q3: How do #BigData &amp; #socialmedia figure into #IBM\u2019s acquisition of #Kenexa? #HRTechChat", 
+        "irondata": "Defining Big Data http://t.co/H0jWh2ua via @govtechnews #bigdata #gov", 
+        "artate": "RT @unglobalpulse: HIRING! Extended deadline (Sept 11) for a Research Coordinator/Project Manager http://t.co/aAGznOXa #jobs #bigdata #ict4d", 
+        "RichardTLloyd": "RT @CloudExpo: Will you be the lucky delegate to drive away in a Mercedes? Register today! #Cloud #CloudExpo #CloudComputing #BigData ht ...", 
+        "DwaineSnow": "RT @ibmanalytics: Using #SmarterAnalytics to raise the IQ of school buildings http://t.co/ksQes27M #ibmanalytics #bigdata", 
+        "dbfclark": "RT @hackreduce: Check it! Look at all of these #bigdata events happening in Boston in September http://t.co/YFUnnNI2 /thanks @LuminosoIn ...", 
+        "TibcoSpotfire": "RT @GJ7300: 5 Ways #BigData Can Help the CMO http://t.co/2XanbYCh \u201cData should be the oxygen of any marketing and advertising organization\"", 
+        "CosimoAccoto": "The #BigData Science Behind Today's Most Popular Content - Forbes http://t.co/Ljgx8YtD via @sharethis", 
+        "malsid": "RT @hackreduce: Who are the most interesting twitter accounts you follow for #bigdata? We like @hmason, @mortardata, @analyticbridge, @B ...", 
+        "VirtualizationE": "RT @CloudExpo: Flashback: Discussing how #Cloud transforms IT at @EMCcorp booth @CloudExpo NY. #CloudExpo #CloudComputing #BigData http: ...", 
+        "Buddahfan": "RT @attunity: News: $ATTU to Present at Annual Rodman &amp; Renshaw Conference in New York on September 11th: http://t.co/3mM1cArE #bigdata", 
+        "CarriSchneider": "Overflowing Roundup: Blended Learning to Big Data http://t.co/0949WHgA via @Getting_Smart #edtech #highered #bigdata #stem #eduapps #digln", 
+        "infochimps": "RT @strataconf: It's big. #Strataconf + #Hadoop World join #bigdata forces, Oct 23-25 in NYC http://t.co/agp8E8de Early price ends FRI 9/7", 
+        "esg_global": "RT @evanquinn: #bigdata @revolutionr @oracle #visualization http://t.co/1maoHviU R Your Eyes Open to Open Source Visualization  #opensource", 
+        "McKinsey": "#FF RT @mck_cmsoforum: Fingers on the #BigData pulse: @mchui @ScottOstby @YvesMulkers @Darryl_McDonald @shashiSF @bevelson @LouisColumbus", 
+        "Zementis": "RT @InfoMgmtExec: The only way to do it. @Zementis: In-database Scoring with #PMML, Zementis, and #SAP #Sybase IQ: #BigData Analytics ht ...", 
+        "SocialMediaSean": "Q3: How do #BigData &amp; #socialmedia figure into #IBM\u2019s acquisition of #Kenexa? #HRTechChat RT @careergravity", 
+        "akasam": "RT @enovance: \"Un premier pas vers le #BigData pour quelques centaines d\u2019euros\" ? Notre partenaire #Ysance explique: http://t.co/nTo90jrA", 
+        "robpas": "It was great fun thx for having me RT @ericvitale: @robpas thanks for the interesting presentation about @datasift and #BigData.", 
+        "juceossa": "RT @prezi: Check out this Tech Trailblazers prezi: http://t.co/OV5j5IHv Final call for entries is Sep 12th #TTAwards #bigdata #cloud", 
+        "julie1research": "RT @oleandresen: RT @RoyHP: Reinventing society in the wake of big data http://t.co/PsIIPstb RT @latruffe #mrx #bigdata", 
+        "jg21": "RT @CloudExpo: Flashback: Discussing how #Cloud transforms IT at @EMCcorp booth @CloudExpo NY. #CloudExpo #CloudComputing #BigData http: ...", 
+        "DOCUMENTmedia": "RT @harvardbiz: Advantage lies in a capacity to predict the future before your rivals can. http://t.co/RiR9l0Ua #BIGDATA", 
+        "szhorton": "RT @orrickta: Watch our #bigdata video w/@RomanStanek, @davidhornik, @dpatil @jflomenb @bwerther &amp; @splunk! cc @dkellerjr...", 
+        "Teradata": "RT @DnBUS: The least involved in discussing #BigData #analytics? CMOs, customer service, ecommerce, &amp; CFOs. @Teradata survey: http:/ ...", 
+        "Darryl_McDonald": "Thanks! RT @McK_CMSOForum Fingers on the #BigData pulse: @mchui @ScottOstby @yvesmulkers @Darryl_McDonald @ShashiSF @bevelson @LouisColumbus", 
+        "YvesMulkers": "RT @IIRNederland: Nog een paar plekken beschikbaar voor #BigData #Analytics, start 29 oktober. Meld u aan en verzeker uzelf van een plek ...", 
+        "haydenir": "RT @Lyris: #Marketing exec @swooledge talks how companies can receive real value from #bigdata http://t.co/VBu20FKA &gt;great thoughts Steve!", 
+        "IntelITS": "#BigData benefits include competitive advantage &amp; value creation, via @SHamelCP http://t.co/3wcQmVAJ @NeilRaden What are some others?", 
+        "elGamificator": "Do u know the difference btwn Data &amp; Information? http://t.co/Qo44m8YP #crm #scrm #bigData #e2 #cmo #cio via @mich8elwu", 
+        "colinmasson": "RT @MSFTenterprise: How to Succeed with Big Data\nhttp://t.co/6mqL4E0d #BigData. From planning stages to what you actually need to put in ...", 
+        "mydatanews": "How Cisco wants to make big data a community\u00a0affair http://t.co/dNHLj0wF via @derrickharris #bigdata #cisco", 
+        "Beckland": "RT @Janrain: The Definitive Guide to Collecting and Storing Social Profile Data http://t.co/eeNkp1ts #socialdata #bigdata #smm: Janra...", 
+        "HaleChris": "The New Era of Big Data Management: Where to Start. @Dataversity  http://t.co/aNnRQfxZ #bigdata #datamanagement", 
+        "BigDataClub": "RT @IBMbigdata: CMOs and CIOs: The Hatfields and Macoys of #bigdata? http://t.co/Gg3E6sQ1 #IBMbigdata", 
+        "CloudJobFair": "RT @CloudExpo: Flashback: Discussing how #Cloud transforms IT at @EMCcorp booth @CloudExpo NY. #CloudExpo #CloudComputing #BigData http: ...", 
+        "ISpeakAnalytics": "RT @hakeber53714 Bringing #bigdata to the modern battlefield http://t.co/rMrNFvfl \u2026 Operational Research (around since WWII) combines wi ...", 
+        "cjcarpenter": "RT @IBM: RT @smarterplanet: LIVE NOW: Join @IBM's Deepak Advani today on #bigdata &amp; #analytics in sports &amp; business http://t.co/R7IWrcKV", 
+        "moorejh": "#datascience RT @aoladi: #BigData globally to be worth $25B by 2015 http://t.co/Wf4w4SkJ", 
+        "BrevaSystems": "RT @Vertica: Back to school with #BigData http://t.co/2R2qVHta", 
+        "dennisjwaldron": "RT @Teradata: . @Big_Analytics Roadshow survey found that those in the c-suite are the least involved in the discussion of #BigData http ...", 
+        "ricksschultz": "RT @gkm1: The pendulum is swinging toward tools &amp; automation to solve #BigData problems vs. lamenting about the lack of skills: http ...", 
+        "Rick345": "RT @ema_research: EMA Analyst @johnlmyers44 discuss how #bigData is operational w/@jimericson @infomgmt http://t.co/HUnJyTAB", 
+        "Stephen_Tucker": "RT @NetInsights: Use #BigData to Predict Your Customers' Behaviors - @HarvardBiz http://t.co/cHmySHOs", 
+        "TopDevTweets": "RT @CloudExpo: Will you be the lucky delegate to drive away in a Mercedes? Register today! #Cloud #CloudExpo #CloudComputing #BigData ht ...", 
+        "StatSoft": "Thx for RT, @mario_mh. Yes, #bigdata must be rendered useful, otherwise it's like storing everyone else's junk in your attic.", 
+        "VAPittsburgh": "Learn how VA is using #bigdata to deliver more accurate health care. http://t.co/brk7pNcn RT @veteranshealth", 
+        "masareus": "RT @ibmcognos: Join #IBM's Deepak Advani today for a Facebook chat on #bigdata &amp; #analytics in sports &amp; business http://t.co/JlL ...", 
+        "ISTC_BigData": "MT @IntelITS NASA's @skytland argues all workers need to be more #BigData literate, via @ldignan http://t.co/ivZWRZ1G @KirkDBorne", 
+        "betsyatoreilly": "RT @strataconf Early price ends TODAY http://t.co/e310f3iz Don't miss the big #bigdata event Oct 23-25 in NY #Strataconf AND #Hadoop World", 
+        "SorensenMJ": "RT @IBMbigdata: Learn how #bigdata and a data warehouse appliance can help retailers get \"single view of the customer\" http://t.co/6yJANBEe", 
+        "markrotoole": "Big potential for Big Data in the Massachusetts economy http://t.co/nmmkroL5 via @BostonDotCom #Tech #startups #BigData #Boston", 
+        "heddanewman": "RT @AvePoint_Inc: How is #bigdata creating a digital nervous system? Find out in an article from @OReillyMedia on @Forbes: http://t.co/0 ...", 
+        "lindacadigan": "RT @atigeo: Check out this interesting #infographic explaining how #bigdata is changing the college experience: http://t.co/YoYXCl8S", 
+        "Natasha_D_G": "RT @IBMVivisimo: RT @IBMbigdata: How #bigdata &amp; data w/house appliance help retailers get single view of customer http://t.co/o2eOVGdB #cxo", 
+        "GillCraig": "RT @Vodafone_VGE: How can your enterprise use customer data to drive sales?   http://t.co/H2janOx5   #bigdata  #analytics  #mobility", 
+        "JRguezG": "RT @DanaMStanley: Why big companies buy, sell your data http://t.co/DOeKsM0q via http://t.co/0lIf0FPs #mrx #marketing #bigdata", 
+        "marksmithvr": "RT @ventanaresearch: Looking to gain better insights into #bigdata, #predictiveanalytics or mobile tech? Join us on Nov. 8th: http://t.c ...", 
+        "mitchderman": "RT @ElectricEskimo: #CMOs and #CIOs: The Hatfields and Macoys of #bigdata? http://t.co/94kTHNhO #IBMbigdata", 
+        "SOAWorldExpo": "RT @CloudExpo: Flashback: Discussing how #Cloud transforms IT at @EMCcorp booth @CloudExpo NY. #CloudExpo #CloudComputing #BigData http: ...", 
+        "InfoMgmtExec": "RT @ibm_iod: Great! MT @sunilsoares1: There will be two books | One on #BigData #Governance | Second on @IBM_InfoSphere story| Both shou ...", 
+        "TouriaEng": "RT @enovance: \"Un premier pas vers le #BigData pour quelques centaines d\u2019euros\" ? Notre partenaire #Ysance explique: http://t.co/nTo90jrA", 
+        "nitinpj": "RT @NetApp: How big is big? @RichardTreadway explains how NetApp\u2019s strategy on #BigData enables you to spark innovation &amp; more http: ...", 
+        "chrisrampley": "RT @heathpropper: A3: can't wait 2 see how #IBM leverages #Cognos &amp; existing #bigdata tools 2 mine #Kenexa data set - could b huge o ...", 
+        "CloudExpo": "RT @MaureenOGara: Bad News from Intel Worse than Expected \u25b8 http://t.co/ykOOLqB7 #Cloud #CloudExpo #CloudComputing #BigData", 
+        "b_walinski": "RT @Webtrends: Big Data Takes Center Stage In The 2012 Presidential Election http://t.co/ycuZ1xn5 - v. good read on #bigdata &amp; its e ...", 
+        "rbrezina": "RT @HarvardBiz: Advantage lies in a capacity to predict the future before your rivals can. http://t.co/fWxOoeUM #bigdata", 
+        "Gardner_Katie": "RT @McKinsey: #FF RT @mck_cmsoforum: Fingers on the #BigData pulse: @mchui @ScottOstby @YvesMulkers @Darryl_McDonald @shashiSF @bevelson ...", 
+        "Richardk1968": "RT @digi_overheid: IIR heeft de eerste NL opleiding #BigData #Analytics ontwikkeld. Haal goud uit Big Data, kijk hier voor het programma ...", 
+        "CenturyLinkBiz": "Real life #BigData use cases. Farmers harnessing data to predict weather drought's damage, via @Wired_Business http://t.co/fFqdW1Pt", 
+        "KarenGoulart": "RT @ITKE: A little healthy competition helps drive tech innovation http://t.co/WkFbig3U #CIO #Amazon #Apple #BigData", 
+        "biconnections": "RT @jaybmart: PyData: Upcoming big data conference/workshop in NYC http://t.co/3BN59uWP #bigdata #datamining #python @tamentis #nyc", 
+        "softartisans": "#BigData, Better Conferences: From Strata to Visualized - Save these 6 dates http://t.co/ci4vnemo via @ripariandata", 
+        "AlexGoldsmith": "RT @CloudExpo: Flashback: At @QuantumCorp booth discussing data protection for #Cloud &amp; #BigData environments @CloudExpo New York. h ...", 
+        "AjaxRIAexpo": "RT @CloudExpo: Flashback: Discussing how #Cloud transforms IT at @EMCcorp booth @CloudExpo NY. #CloudExpo #CloudComputing #BigData http: ...", 
+        "axelarge": "RT @BigDataBorat: I sell client #bigdata solution, now write distribute map reduce to find problem", 
+        "SerenaLos": "RT @DnBUS: The least involved in discussing #BigData #analytics? CMOs, customer service, ecommerce, &amp; CFOs. @Teradata survey: http:/ ...", 
+        "mattbenati": "RT @attunity: News: @Attunity Strives To Make #BigData Accessible http://t.co/Baml6tXV via @KevinFogarty @InformationWeek #CloudBeam #cl ...", 
+        "sysconmedia": "RT @CloudExpo: Flashback: Discussing how #Cloud transforms IT at @EMCcorp booth @CloudExpo NY. #CloudExpo #CloudComputing #BigData http: ...", 
+        "hyounpark": "RT @khalihenderson: Got #BigData questions? Get them answered by @hyounpark at #cpexpo in #Orlando. Last day to save: http://t.co/rS2rNb1W", 
+        "mreffel": "RT @CenturyLinkBiz: Real life #BigData use cases. Farmers harnessing data to predict weather drought's damage, via @Wired_Business http: ...", 
+        "attunity": "News: @Attunity Strives To Make #BigData Accessible http://t.co/Baml6tXV via @KevinFogarty @InformationWeek #CloudBeam #cloud @awscloud", 
+        "TalentCulture": "RT @talentmgmttech: Q3: How do #BigData &amp; #socialmedia figure into #IBM\u2019s acquisition of #Kenexa? #HRTechChat"
+    }, 
     "nodes": [
         {
-            "nodeName": "Revelwood"
+            "nodeName": "TalentCulture"
         }, 
         {
-            "nodeName": "Joseph_Marks_"
+            "nodeName": "aoladi"
         }, 
         {
-            "nodeName": "Dellshannon"
+            "nodeName": "attunity"
         }, 
         {
-            "nodeName": "AnjaHoffmann"
+            "nodeName": "MeghanMBiro"
         }, 
         {
-            "nodeName": "neiljpearce"
+            "nodeName": "mchui"
         }, 
         {
-            "nodeName": "FirstLiberated"
+            "nodeName": "hakeber53714"
         }, 
         {
-            "nodeName": "gminks"
+            "nodeName": "atigeo"
         }, 
         {
-            "nodeName": "IBMSoftware"
+            "nodeName": "CareerGravity"
         }, 
         {
-            "nodeName": "OracleDatabase"
+            "nodeName": "lirons"
         }, 
         {
-            "nodeName": "dell_storage"
+            "nodeName": "Indravailable"
         }, 
         {
-            "nodeName": "mattray"
+            "nodeName": "saffrontech"
         }, 
         {
-            "nodeName": "KernEvents"
+            "nodeName": "timjpowers"
         }, 
         {
-            "nodeName": "Bob_Thompson"
+            "nodeName": "ema_research"
         }, 
         {
-            "nodeName": "mapr"
+            "nodeName": "javaun"
         }, 
         {
-            "nodeName": "CincomAcquire"
+            "nodeName": "DataMgmtWonk"
         }, 
         {
-            "nodeName": "emcacademicbr"
+            "nodeName": "HealthITCONNECT"
         }, 
         {
-            "nodeName": "jtsmith2040"
+            "nodeName": "crobmatthews"
+        }, 
+        {
+            "nodeName": "IBMNetezza"
+        }, 
+        {
+            "nodeName": "NeustarCarrier"
+        }, 
+        {
+            "nodeName": "esg_global"
+        }, 
+        {
+            "nodeName": "thorhalvor"
+        }, 
+        {
+            "nodeName": "RRojo619"
         }, 
         {
             "nodeName": "sharethis"
@@ -58,268 +209,241 @@
             "nodeName": "IBMVivisimo"
         }, 
         {
-            "nodeName": "QLogic"
+            "nodeName": "jaswani"
         }, 
         {
-            "nodeName": "SASanalytics"
+            "nodeName": "IrsjadC"
         }, 
         {
-            "nodeName": "cloudexpo"
+            "nodeName": "systemsflow"
         }, 
         {
-            "nodeName": "gretchen_malay"
+            "nodeName": "EMCbigdata"
         }, 
         {
-            "nodeName": "ibm_infosphere"
+            "nodeName": "McKinsey"
         }, 
         {
-            "nodeName": "BITechWatch"
+            "nodeName": "mitchderman"
         }, 
         {
-            "nodeName": "CloudGathering"
+            "nodeName": "SMSSocialHR"
         }, 
         {
-            "nodeName": "WillFriedReich"
+            "nodeName": "prezi"
         }, 
         {
-            "nodeName": "SAP"
+            "nodeName": "MDMGeek"
         }, 
         {
-            "nodeName": "SteVaughan15"
+            "nodeName": "jillfitz04"
         }, 
         {
-            "nodeName": "bdeanjenkins"
+            "nodeName": "ceraitinc"
         }, 
         {
-            "nodeName": "FuatKircaali"
-        }, 
-        {
-            "nodeName": "BigDataDiary"
-        }, 
-        {
-            "nodeName": "Smarter_Media"
-        }, 
-        {
-            "nodeName": "antoineguiral"
-        }, 
-        {
-            "nodeName": "99_consulting"
-        }, 
-        {
-            "nodeName": "FlexITyHealth"
-        }, 
-        {
-            "nodeName": "evanquinn"
-        }, 
-        {
-            "nodeName": "SethGrimes"
-        }, 
-        {
-            "nodeName": "kristinevick"
-        }, 
-        {
-            "nodeName": "gilpress"
-        }, 
-        {
-            "nodeName": "watersn"
-        }, 
-        {
-            "nodeName": "steve_mock"
-        }, 
-        {
-            "nodeName": "SAPNorthAmerica"
-        }, 
-        {
-            "nodeName": "CompetingonInfo"
-        }, 
-        {
-            "nodeName": "RobertsPaige"
-        }, 
-        {
-            "nodeName": "snakeynag"
-        }, 
-        {
-            "nodeName": "EdgarHaren"
-        }, 
-        {
-            "nodeName": "AjaxRIAexpo"
-        }, 
-        {
-            "nodeName": "Pushkar_atSAP"
-        }, 
-        {
-            "nodeName": "ajbowles:"
-        }, 
-        {
-            "nodeName": "OrquideoM"
-        }, 
-        {
-            "nodeName": "delphixcorp"
-        }, 
-        {
-            "nodeName": "stevepol"
-        }, 
-        {
-            "nodeName": "cloudera"
-        }, 
-        {
-            "nodeName": "oraclehardware"
-        }, 
-        {
-            "nodeName": "EMCAcademicBR"
-        }, 
-        {
-            "nodeName": "nextgov"
-        }, 
-        {
-            "nodeName": "radar"
-        }, 
-        {
-            "nodeName": "olesovhcom"
-        }, 
-        {
-            "nodeName": "alanmstein"
-        }, 
-        {
-            "nodeName": "PredixionSW"
-        }, 
-        {
-            "nodeName": "SemanticWeb"
-        }, 
-        {
-            "nodeName": "WorkbridgeMA"
-        }, 
-        {
-            "nodeName": "OracleRetail"
+            "nodeName": "mich8elwu"
         }, 
         {
             "nodeName": "ibmanalytics"
         }, 
         {
-            "nodeName": "CBInsights"
+            "nodeName": "RCESoftware"
         }, 
         {
-            "nodeName": "ayrrisbio"
+            "nodeName": "bobtricarico"
         }, 
         {
-            "nodeName": "TPCaruso"
+            "nodeName": "evanquinn"
         }, 
         {
-            "nodeName": "CrystaAnderson"
+            "nodeName": "jasonaverbook"
         }, 
         {
-            "nodeName": "pauljesselson"
+            "nodeName": "ibm_iod"
         }, 
         {
-            "nodeName": "el_joys"
+            "nodeName": "HALx86"
         }, 
         {
-            "nodeName": "PARTNERSUSERGRP"
+            "nodeName": "willynet"
         }, 
         {
-            "nodeName": "tvankemmel"
+            "nodeName": "businessobjects"
         }, 
         {
-            "nodeName": "monicasmith1012"
+            "nodeName": "CompetingonInfo"
         }, 
         {
-            "nodeName": "ibmnetezza"
+            "nodeName": "snakeynag"
         }, 
         {
-            "nodeName": "EverythingDB2"
+            "nodeName": "mgualtieri"
         }, 
         {
-            "nodeName": "ArcMail"
+            "nodeName": "darronbatton"
         }, 
         {
-            "nodeName": "IBMAnalytics"
+            "nodeName": "BlueWolfJoe"
         }, 
         {
-            "nodeName": "ajbowles"
+            "nodeName": "lletourmy"
         }, 
         {
-            "nodeName": "salfordsystems"
+            "nodeName": "NetInsights"
         }, 
         {
-            "nodeName": "rwang0"
+            "nodeName": "MartyFoltyn"
         }, 
         {
-            "nodeName": "SSIinc01"
+            "nodeName": "janicelbrown"
         }, 
         {
-            "nodeName": "ITOnlineSA"
+            "nodeName": "Big_Analytics"
         }, 
         {
-            "nodeName": "xrodriguez_mobi"
+            "nodeName": "McK_CMSOForum"
         }, 
         {
-            "nodeName": "CRN"
+            "nodeName": "edudemic"
         }, 
         {
-            "nodeName": "DanJenkins43"
+            "nodeName": "ciropuglisi"
+        }, 
+        {
+            "nodeName": "mattbenati"
+        }, 
+        {
+            "nodeName": "mck_cmsoforum"
+        }, 
+        {
+            "nodeName": "KLoweryVR"
+        }, 
+        {
+            "nodeName": "JoshMoskowitz"
+        }, 
+        {
+            "nodeName": "TimKersjes"
+        }, 
+        {
+            "nodeName": "alexio"
+        }, 
+        {
+            "nodeName": "pbsoftwareAmer"
+        }, 
+        {
+            "nodeName": "fanitOo"
+        }, 
+        {
+            "nodeName": "jaybmart"
+        }, 
+        {
+            "nodeName": "brentskinner"
+        }, 
+        {
+            "nodeName": "marcusborba"
+        }, 
+        {
+            "nodeName": "PDOsborne"
+        }, 
+        {
+            "nodeName": "SystemsandTech"
+        }, 
+        {
+            "nodeName": "gigaom"
+        }, 
+        {
+            "nodeName": "dartdog"
+        }, 
+        {
+            "nodeName": "vipsgupta"
+        }, 
+        {
+            "nodeName": "Vodafone_VGE"
+        }, 
+        {
+            "nodeName": "BeyeNETWORK"
+        }, 
+        {
+            "nodeName": "JennMarquez"
+        }, 
+        {
+            "nodeName": "Ashley_MW"
+        }, 
+        {
+            "nodeName": "GilPress"
+        }, 
+        {
+            "nodeName": "trismartgrid"
+        }, 
+        {
+            "nodeName": "Vertica"
+        }, 
+        {
+            "nodeName": "RawlinsonSimon"
+        }, 
+        {
+            "nodeName": "Snozell"
+        }, 
+        {
+            "nodeName": "ReneeBain"
+        }, 
+        {
+            "nodeName": "IBMSmrtrCmptng"
+        }, 
+        {
+            "nodeName": "OrrickTA"
+        }, 
+        {
+            "nodeName": "arccommunity"
         }, 
         {
             "nodeName": "Ulitzer"
         }, 
         {
-            "nodeName": "GinaMelani"
-        }, 
-        {
-            "nodeName": "WaLaSolutions"
-        }, 
-        {
-            "nodeName": "bud_koch"
-        }, 
-        {
-            "nodeName": "sscdotopen"
+            "nodeName": "OfficeWriter"
         }, 
         {
             "nodeName": "BigDataExpo"
         }, 
         {
-            "nodeName": "_bobwilliams"
+            "nodeName": "harvardbiz"
         }, 
         {
-            "nodeName": "Datagrrl"
+            "nodeName": "digiphile:"
         }, 
         {
             "nodeName": "GonzalezCarmen"
         }, 
         {
-            "nodeName": "metricinsights"
+            "nodeName": "andydances"
         }, 
         {
-            "nodeName": "_innovation"
+            "nodeName": "TheClarityWay"
         }, 
         {
-            "nodeName": "gwenthomasdgi"
+            "nodeName": "bhsduncan"
         }, 
         {
-            "nodeName": "SPARCedge"
+            "nodeName": "czarinaofhr"
         }, 
         {
-            "nodeName": "SGIisbigdata"
+            "nodeName": "rianne_k"
         }, 
         {
-            "nodeName": "Pentaho"
+            "nodeName": "haydenir"
         }, 
         {
-            "nodeName": "J_VanderArk"
-        }, 
-        {
-            "nodeName": "jmancini77"
-        }, 
-        {
-            "nodeName": "btblair"
+            "nodeName": "MarcioOnTW"
         }, 
         {
             "nodeName": "DnBUS"
         }, 
         {
-            "nodeName": "Inthehighest1"
+            "nodeName": "BestOfAnalytics"
         }, 
         {
-            "nodeName": "Jaspersoft"
+            "nodeName": "BigDataBorat"
         }, 
         {
             "nodeName": "cfoundryexpo"
@@ -328,1529 +452,1751 @@
             "nodeName": "MaureenOGara"
         }, 
         {
-            "nodeName": "pibigibi"
+            "nodeName": "heathpropper"
         }, 
         {
-            "nodeName": "DGleebits"
+            "nodeName": "asterdata"
         }, 
         {
-            "nodeName": "acrossoft"
+            "nodeName": "infomgmtpartner"
+        }, 
+        {
+            "nodeName": "pphilp"
         }, 
         {
             "nodeName": "alteryx"
         }, 
         {
-            "nodeName": "InformaticaCorp"
+            "nodeName": "ActiveArchive"
         }, 
         {
-            "nodeName": "aliancati"
+            "nodeName": "gkm1"
         }, 
         {
-            "nodeName": "kdnuggets"
+            "nodeName": "LexisNexis"
         }, 
         {
-            "nodeName": "jameskobielus"
+            "nodeName": "malsid"
         }, 
         {
-            "nodeName": "eric_kavanagh"
+            "nodeName": "SYS_MAINT"
         }, 
         {
-            "nodeName": "garydata"
+            "nodeName": "ericvitale:"
         }, 
         {
-            "nodeName": "al3xandru"
+            "nodeName": "irondata"
         }, 
         {
-            "nodeName": "gnostiteautvn"
+            "nodeName": "artate"
         }, 
         {
-            "nodeName": "debwalery"
+            "nodeName": "RichardTLloyd"
         }, 
         {
-            "nodeName": "opscode"
+            "nodeName": "StatSoft"
         }, 
         {
-            "nodeName": "johnAlanBaker"
+            "nodeName": "powdoug"
         }, 
         {
-            "nodeName": "shadowy47"
+            "nodeName": "DwaineSnow"
         }, 
         {
-            "nodeName": "SFGate"
+            "nodeName": "derrickharris"
         }, 
         {
-            "nodeName": "MColebrook"
+            "nodeName": "KevinFogarty"
         }, 
         {
-            "nodeName": "quentinrousseau"
+            "nodeName": "dbfclark"
         }, 
         {
-            "nodeName": "toolsjournal"
+            "nodeName": "lindacadigan"
         }, 
         {
-            "nodeName": "ZDnet"
+            "nodeName": "HarvardBiz"
         }, 
         {
-            "nodeName": "rw_44"
+            "nodeName": "TibcoSpotfire"
         }, 
         {
-            "nodeName": "MaryMarkowicz"
+            "nodeName": "enovance"
         }, 
         {
-            "nodeName": "pewresearch"
+            "nodeName": "LuxNoSQL"
         }, 
         {
-            "nodeName": "Dataversity"
+            "nodeName": "rodluc2001"
         }, 
         {
-            "nodeName": "sherryemery"
+            "nodeName": "GJ7300"
         }, 
         {
-            "nodeName": "impnamed"
+            "nodeName": "digi_overheid"
+        }, 
+        {
+            "nodeName": "CosimoAccoto"
+        }, 
+        {
+            "nodeName": "MikeLevitz"
+        }, 
+        {
+            "nodeName": "Binartus"
         }, 
         {
             "nodeName": "VirtualizationE"
         }, 
         {
-            "nodeName": "danklynn"
+            "nodeName": "Buddahfan"
         }, 
         {
-            "nodeName": "tinagroves"
+            "nodeName": "GillisMatt"
         }, 
         {
-            "nodeName": "Paul_Sonnier"
+            "nodeName": "CarriSchneider"
         }, 
         {
-            "nodeName": "iaflash"
+            "nodeName": "\u201c@qhardy"
         }, 
         {
-            "nodeName": "esg_global"
+            "nodeName": "agiledss"
         }, 
         {
-            "nodeName": "IBMNetezza"
+            "nodeName": "csantaferraro"
         }, 
         {
-            "nodeName": "catshinners"
+            "nodeName": "masareus"
         }, 
         {
-            "nodeName": "DTurnerBlogs"
+            "nodeName": "Khakhar"
         }, 
         {
-            "nodeName": "businessobjects"
+            "nodeName": "Zementis"
         }, 
         {
-            "nodeName": "stevesarsfield"
+            "nodeName": "Wired_Business"
         }, 
         {
-            "nodeName": "KMH_nowinVA"
+            "nodeName": "SocialMediaSean"
         }, 
         {
-            "nodeName": "louisjon"
+            "nodeName": ","
         }, 
         {
-            "nodeName": "thesocialpitt"
+            "nodeName": "akasam"
         }, 
         {
-            "nodeName": "vipsgupta"
+            "nodeName": "Janrain"
         }, 
         {
-            "nodeName": "tadmartin"
+            "nodeName": "robpas"
         }, 
         {
-            "nodeName": "T4G"
+            "nodeName": "juceossa"
         }, 
         {
-            "nodeName": "DataOnWheels"
+            "nodeName": "julie1research"
         }, 
         {
-            "nodeName": "pisarose"
+            "nodeName": "jg21"
+        }, 
+        {
+            "nodeName": "DOCUMENTmedia"
+        }, 
+        {
+            "nodeName": "szhorton"
         }, 
         {
             "nodeName": "Teradata"
         }, 
         {
-            "nodeName": "coachboz68"
+            "nodeName": "AjaxRIAexpo"
         }, 
         {
-            "nodeName": "Hermans85"
+            "nodeName": "Internet_Summit"
         }, 
         {
-            "nodeName": "HPEnterpriseVEC"
+            "nodeName": "_rnair"
         }, 
         {
-            "nodeName": "TickLabs"
-        }, 
-        {
-            "nodeName": "ProSyn"
-        }, 
-        {
-            "nodeName": "JohnSharp"
-        }, 
-        {
-            "nodeName": "pdipao"
-        }, 
-        {
-            "nodeName": "IBMbigdata"
-        }, 
-        {
-            "nodeName": "mattcasters"
-        }, 
-        {
-            "nodeName": "jmsidhu"
-        }, 
-        {
-            "nodeName": "MetricInsights:"
-        }, 
-        {
-            "nodeName": "stevesarsfield:"
-        }, 
-        {
-            "nodeName": "SuccessfulWork"
-        }, 
-        {
-            "nodeName": "vGazza"
-        }, 
-        {
-            "nodeName": "HMCollab"
-        }, 
-        {
-            "nodeName": "1gst3r"
-        }, 
-        {
-            "nodeName": "mydatanews"
-        }, 
-        {
-            "nodeName": "nicfish"
-        }, 
-        {
-            "nodeName": "emceducation"
-        }, 
-        {
-            "nodeName": "louiscolumbus"
-        }, 
-        {
-            "nodeName": "CloudJobFair"
-        }, 
-        {
-            "nodeName": "mnemecek"
-        }, 
-        {
-            "nodeName": "datagrrl"
-        }, 
-        {
-            "nodeName": "JessGoddesse"
-        }, 
-        {
-            "nodeName": "kristathomas"
-        }, 
-        {
-            "nodeName": "GilPress"
-        }, 
-        {
-            "nodeName": "WebSphereFrance"
-        }, 
-        {
-            "nodeName": "alteryxdean"
-        }, 
-        {
-            "nodeName": "AmyCarlson1"
-        }, 
-        {
-            "nodeName": "CarolDSanders"
-        }, 
-        {
-            "nodeName": "UtopiaInc"
-        }, 
-        {
-            "nodeName": "developerworks"
-        }, 
-        {
-            "nodeName": "gazzang"
-        }, 
-        {
-            "nodeName": "markmadsen"
-        }, 
-        {
-            "nodeName": "BI_Advertising"
-        }, 
-        {
-            "nodeName": "hopenic"
-        }, 
-        {
-            "nodeName": "zoranco"
-        }, 
-        {
-            "nodeName": "alexanderberler"
-        }, 
-        {
-            "nodeName": "graemeknows"
-        }, 
-        {
-            "nodeName": "ebiosca"
-        }, 
-        {
-            "nodeName": "nanofoo"
-        }, 
-        {
-            "nodeName": "tomkellner"
-        }, 
-        {
-            "nodeName": "olivier_tassel"
-        }, 
-        {
-            "nodeName": "BIZ_Advisor1"
-        }, 
-        {
-            "nodeName": "IBMBigData"
-        }, 
-        {
-            "nodeName": "mkoeppen"
-        }, 
-        {
-            "nodeName": "NeilRaden"
-        }, 
-        {
-            "nodeName": "AmySeaNC"
-        }, 
-        {
-            "nodeName": "TheChampionComm"
-        }, 
-        {
-            "nodeName": "pinellas247"
-        }, 
-        {
-            "nodeName": "BeccaNY"
-        }, 
-        {
-            "nodeName": "cmswire"
-        }, 
-        {
-            "nodeName": "magenic"
-        }, 
-        {
-            "nodeName": "KerstinWoods"
-        }, 
-        {
-            "nodeName": "DrBonnie360"
-        }, 
-        {
-            "nodeName": "brobbins"
-        }, 
-        {
-            "nodeName": "Sabrina_Atienza"
-        }, 
-        {
-            "nodeName": "SeeIBMAnalytics"
-        }, 
-        {
-            "nodeName": "billbackbi"
-        }, 
-        {
-            "nodeName": "amandajobbins"
-        }, 
-        {
-            "nodeName": "dbanalytics"
-        }, 
-        {
-            "nodeName": "ibmbigdata"
-        }, 
-        {
-            "nodeName": "BrunoGebarski"
-        }, 
-        {
-            "nodeName": "zubinmehta4"
-        }, 
-        {
-            "nodeName": "IBM_InfoSphere"
-        }, 
-        {
-            "nodeName": "BPOOutcomes"
-        }, 
-        {
-            "nodeName": "SAP_VisualEnt"
-        }, 
-        {
-            "nodeName": "AnalyzingMedia"
-        }, 
-        {
-            "nodeName": "SASBooks"
-        }, 
-        {
-            "nodeName": "SOAWorldExpo"
-        }, 
-        {
-            "nodeName": "Wikibon"
-        }, 
-        {
-            "nodeName": "SocAnalytics"
-        }, 
-        {
-            "nodeName": "Diana1003"
-        }, 
-        {
-            "nodeName": "kbillings"
-        }, 
-        {
-            "nodeName": "LusciousPear"
-        }, 
-        {
-            "nodeName": "dudulima"
-        }, 
-        {
-            "nodeName": ".@marciamarcia"
-        }, 
-        {
-            "nodeName": "brettpaulson"
-        }, 
-        {
-            "nodeName": "CloudExpo"
-        }, 
-        {
-            "nodeName": "MelanieDuzyj"
-        }, 
-        {
-            "nodeName": "MCPRINCE_18"
-        }, 
-        {
-            "nodeName": "DnB360"
-        }, 
-        {
-            "nodeName": "TechWriterNinja"
-        }, 
-        {
-            "nodeName": "tokutek"
-        }, 
-        {
-            "nodeName": "juliebhunt"
-        }, 
-        {
-            "nodeName": "medcitynews"
-        }, 
-        {
-            "nodeName": "EMCchannel"
-        }, 
-        {
-            "nodeName": "ReverendDrDash"
-        }, 
-        {
-            "nodeName": "marilyn_cohodas"
-        }, 
-        {
-            "nodeName": "ec_andy"
-        }, 
-        {
-            "nodeName": "wikibon"
-        }, 
-        {
-            "nodeName": "y3ty"
-        }, 
-        {
-            "nodeName": "HPenterpriseMX"
+            "nodeName": "AvePoint_Inc"
         }, 
         {
             "nodeName": "PritimanPanda"
         }, 
         {
-            "nodeName": "Rose_Abigail"
+            "nodeName": "JRguezG"
         }, 
         {
-            "nodeName": "Cistecca"
+            "nodeName": "Darryl_McDonald"
         }, 
         {
-            "nodeName": "Dirk_deRoos"
+            "nodeName": "IBMbigdata"
         }, 
         {
-            "nodeName": "Finextra"
+            "nodeName": "."
         }, 
         {
-            "nodeName": "pentaho"
+            "nodeName": "mobproof"
         }, 
         {
-            "nodeName": "debbsmn"
+            "nodeName": "ReardenSmart"
         }, 
         {
-            "nodeName": "Quant5Inc"
+            "nodeName": "YvesMulkers"
         }, 
         {
-            "nodeName": "AnjulBhambhri"
+            "nodeName": "ventanaresearch"
         }, 
         {
-            "nodeName": "boisemike55"
+            "nodeName": "IntelITS"
         }, 
         {
-            "nodeName": "bmichelson"
+            "nodeName": "Ayende"
         }, 
         {
-            "nodeName": "visaHat"
+            "nodeName": "MSFTenterprise"
         }, 
         {
-            "nodeName": "johnlmyers44:"
+            "nodeName": "BostonDotCom"
         }, 
         {
-            "nodeName": "BigData_paulz"
+            "nodeName": "mydatanews"
         }, 
         {
-            "nodeName": "TerraEchos"
+            "nodeName": "Beckland"
         }, 
         {
-            "nodeName": "sysconmedia"
+            "nodeName": "HaleChris"
         }, 
         {
-            "nodeName": "wmp182"
+            "nodeName": "BigDataClub"
         }, 
         {
-            "nodeName": "1RogerWoodward"
+            "nodeName": "CloudJobFair"
         }, 
         {
-            "nodeName": "openbillc"
+            "nodeName": "nitinpj"
         }, 
         {
-            "nodeName": "Geoffmuse"
+            "nodeName": "cjcarpenter"
+        }, 
+        {
+            "nodeName": "jeffreyfkelly"
+        }, 
+        {
+            "nodeName": "tadmartin:"
+        }, 
+        {
+            "nodeName": "BigDataPVSW"
+        }, 
+        {
+            "nodeName": "moorejh"
+        }, 
+        {
+            "nodeName": "ripariandata"
+        }, 
+        {
+            "nodeName": "Sve_Sic"
+        }, 
+        {
+            "nodeName": "BigDataInsider"
+        }, 
+        {
+            "nodeName": "UtopiaInc"
+        }, 
+        {
+            "nodeName": "JeffreyRayport"
+        }, 
+        {
+            "nodeName": "DanaMStanley"
+        }, 
+        {
+            "nodeName": "benwatson"
+        }, 
+        {
+            "nodeName": "dennisjwaldron"
+        }, 
+        {
+            "nodeName": "johnAlanBaker"
+        }, 
+        {
+            "nodeName": "cer3na"
+        }, 
+        {
+            "nodeName": "ldignan"
+        }, 
+        {
+            "nodeName": "bradbennett"
+        }, 
+        {
+            "nodeName": "ricksschultz"
+        }, 
+        {
+            "nodeName": "Rick345"
+        }, 
+        {
+            "nodeName": "stu"
+        }, 
+        {
+            "nodeName": "Stephen_Tucker"
+        }, 
+        {
+            "nodeName": "OSKroll"
+        }, 
+        {
+            "nodeName": "infochimps"
+        }, 
+        {
+            "nodeName": "ElectricEskimo"
+        }, 
+        {
+            "nodeName": "neylano:"
+        }, 
+        {
+            "nodeName": "NetApp"
+        }, 
+        {
+            "nodeName": "VAPittsburgh"
+        }, 
+        {
+            "nodeName": "veteranshealth"
+        }, 
+        {
+            "nodeName": "SHamelCP"
+        }, 
+        {
+            "nodeName": "ISTC_BigData"
+        }, 
+        {
+            "nodeName": "IBM"
+        }, 
+        {
+            "nodeName": "SerenaLos"
+        }, 
+        {
+            "nodeName": "betsyatoreilly"
+        }, 
+        {
+            "nodeName": "SorensenMJ"
+        }, 
+        {
+            "nodeName": "Webtrends"
+        }, 
+        {
+            "nodeName": "krissyfilippini"
+        }, 
+        {
+            "nodeName": "SeanPODowd"
+        }, 
+        {
+            "nodeName": "elGamificator"
+        }, 
+        {
+            "nodeName": "ISpeakAnalytics"
+        }, 
+        {
+            "nodeName": "markrotoole"
+        }, 
+        {
+            "nodeName": "heddanewman"
+        }, 
+        {
+            "nodeName": "AJWatts_Obicon"
+        }, 
+        {
+            "nodeName": "khalihenderson"
+        }, 
+        {
+            "nodeName": "Natasha_D_G"
+        }, 
+        {
+            "nodeName": "GillCraig"
+        }, 
+        {
+            "nodeName": "PrismPointeTech"
+        }, 
+        {
+            "nodeName": "josuebw"
+        }, 
+        {
+            "nodeName": "marksmithvr"
+        }, 
+        {
+            "nodeName": "hackreduce"
+        }, 
+        {
+            "nodeName": "ibmcognos"
+        }, 
+        {
+            "nodeName": "SOAWorldExpo"
+        }, 
+        {
+            "nodeName": "oleandresen"
         }, 
         {
             "nodeName": "hyounpark"
         }, 
         {
-            "nodeName": "jasonstamper"
+            "nodeName": "TouriaEng"
         }, 
         {
-            "nodeName": "robinbloor"
+            "nodeName": "unglobalpulse"
         }, 
         {
-            "nodeName": "schwartzlaws"
+            "nodeName": "LaraShackelford:"
         }, 
         {
-            "nodeName": "EMC_C"
+            "nodeName": "chrisrampley"
         }, 
         {
-            "nodeName": "olopez"
+            "nodeName": "CloudExpo"
+        }, 
+        {
+            "nodeName": "b_walinski"
+        }, 
+        {
+            "nodeName": "rbrezina"
+        }, 
+        {
+            "nodeName": "cjr"
+        }, 
+        {
+            "nodeName": "Gardner_Katie"
+        }, 
+        {
+            "nodeName": "paul_hofmann"
+        }, 
+        {
+            "nodeName": "Dataversity"
+        }, 
+        {
+            "nodeName": "aprimobob"
+        }, 
+        {
+            "nodeName": "zite"
+        }, 
+        {
+            "nodeName": "sportheory"
+        }, 
+        {
+            "nodeName": "Richardk1968"
+        }, 
+        {
+            "nodeName": "CenturyLinkBiz"
+        }, 
+        {
+            "nodeName": "KarenGoulart"
+        }, 
+        {
+            "nodeName": "Teradata:"
+        }, 
+        {
+            "nodeName": "govtechnews"
+        }, 
+        {
+            "nodeName": "biconnections"
+        }, 
+        {
+            "nodeName": "softartisans"
+        }, 
+        {
+            "nodeName": "strataconf"
+        }, 
+        {
+            "nodeName": "webstep:"
         }, 
         {
             "nodeName": "InformationWeek"
         }, 
         {
+            "nodeName": "jeffreyrayport"
+        }, 
+        {
+            "nodeName": "wimrampen:"
+        }, 
+        {
+            "nodeName": "AlexGoldsmith"
+        }, 
+        {
+            "nodeName": "colinmasson"
+        }, 
+        {
+            "nodeName": "darachennis"
+        }, 
+        {
+            "nodeName": "axelarge"
+        }, 
+        {
+            "nodeName": "Getting_Smart"
+        }, 
+        {
+            "nodeName": "orrickta"
+        }, 
+        {
+            "nodeName": "Lyris"
+        }, 
+        {
+            "nodeName": "AlexisGelber"
+        }, 
+        {
+            "nodeName": "sysconmedia"
+        }, 
+        {
+            "nodeName": "careergravity"
+        }, 
+        {
+            "nodeName": "InfoMgmtExec"
+        }, 
+        {
+            "nodeName": "ITKE"
+        }, 
+        {
+            "nodeName": "RC_Xuber"
+        }, 
+        {
+            "nodeName": "mreffel"
+        }, 
+        {
+            "nodeName": "talentmgmttech"
+        }, 
+        {
+            "nodeName": "TopDevTweets"
+        }, 
+        {
+            "nodeName": "BrevaSystems"
+        }, 
+        {
             "nodeName": "ConsultRamy"
         }, 
         {
-            "nodeName": "PerfectSearchIT"
+            "nodeName": "mario_mh"
         }, 
         {
-            "nodeName": "pcudia"
-        }, 
-        {
-            "nodeName": "gerardocerpa"
+            "nodeName": "IIRNederland"
         }
     ], 
     "avatars": {
-        "Revelwood": "http://a0.twimg.com/profile_images/1440641214/RWIcon_44w_normal.jpg", 
-        "Joseph_Marks_": "http://a0.twimg.com/profile_images/1799505249/JMbio__2__normal.jpg", 
-        "MelanieDuzyj": "http://a0.twimg.com/profile_images/1235694672/169003_10150095835682770_503732769_5956692_5807039_n_normal.jpg", 
-        "watersn": "http://a0.twimg.com/profile_images/1664103574/nickw_normal.png", 
-        "FirstLiberated": "http://a0.twimg.com/profile_images/964934753/Twitterpic_normal.jpg", 
-        "gminks": "http://a0.twimg.com/profile_images/2276253375/m8y7326ag9p1eswvjq5d_normal.jpeg", 
-        "IBMSoftware": "http://a0.twimg.com/profile_images/870130673/sw-73x73_normal.gif", 
-        "_innovation": "http://a0.twimg.com/profile_images/689146100/open_innovation_en_normal.JPG", 
-        "CincomAcquire": "http://a0.twimg.com/profile_images/1302189903/Acquire_Twitter_normal.jpg", 
-        "jtsmith2040": "http://a0.twimg.com/profile_images/1089740672/john_normal.jpg", 
-        "IBMVivisimo": "http://a0.twimg.com/profile_images/2260548871/VivisimoLogoElements_normal.jpg", 
-        "QLogic": "http://a0.twimg.com/profile_images/1843905436/Corporate_normal.jpg", 
-        "SASanalytics": "http://a0.twimg.com/profile_images/1345838738/SAS_Analytics_normal.png", 
-        "JessGoddesse": "http://a0.twimg.com/profile_images/1221999891/JessWorkCrop_opt_smsize_lorez_normal.JPG", 
-        "alteryxdean": "http://a0.twimg.com/profile_images/2326446509/gioxo72k0q89ltfk2ggl_normal.png", 
-        "WillFriedReich": "http://a0.twimg.com/profile_images/2278397127/3c2zo54o99xowdjlbcm0_normal.png", 
-        "SteVaughan15": "http://a0.twimg.com/profile_images/1940468322/image_normal.jpg", 
-        "Smarter_Media": "http://a0.twimg.com/profile_images/1711997066/Smaller_IBM_Media_and_Entertainment_Icon_vFinal_12142011_normal.JPG", 
-        "antoineguiral": "http://a0.twimg.com/profile_images/699130421/q692819113_8083_normal.jpg", 
-        "99_consulting": "http://a0.twimg.com/profile_images/1876403697/Copy__2__of_Logo_normal.PNG", 
-        "SethGrimes": "http://a0.twimg.com/profile_images/1197366993/Seth2010Nov4x_normal.jpg", 
-        "steve_mock": "http://a0.twimg.com/profile_images/1556358140/Screen_shot_2011-09-23_at_10.04.02_AM_normal.png", 
-        "SAPNorthAmerica": "http://a0.twimg.com/profile_images/1259831303/SAP_TW_StandardLogo_022311_normal.jpg", 
-        "RobertsPaige": "http://a0.twimg.com/profile_images/1668294878/PaigeintheCountry_normal.jpg", 
+        "MeghanMBiro": "http://a0.twimg.com/profile_images/2161865212/VMP_4926_72dpi_200p_square_normal.jpg", 
+        "CareerGravity": "http://a0.twimg.com/profile_images/1932962196/Career_Gravity_solo_white_normal.png", 
+        "lirons": "http://a0.twimg.com/profile_images/1193500040/LRIrons_normal.jpg", 
+        "Indravailable": "http://a0.twimg.com/profile_images/2586685731/6e48teksvt6b96qqcqex_normal.jpeg", 
+        "KLoweryVR": "http://a0.twimg.com/profile_images/2185477819/kml1_normal.png", 
+        "timjpowers": "http://a0.twimg.com/profile_images/748642666/tim_pic_normal.JPG", 
+        "javaun": "http://a0.twimg.com/profile_images/51720963/twiitter_hs_normal.jpg", 
+        "TheClarityWay": "http://a0.twimg.com/profile_images/2560502397/nput94j25zcqg05i1nsv_normal.png", 
+        "thorhalvor": "http://a0.twimg.com/profile_images/1620315741/thf_profil_normal.jpg", 
+        "RRojo619": "http://a0.twimg.com/profile_images/1403188044/l_c3b1e5d1e0c74f519dc72336fac02a3e_normal.jpg", 
+        "jaswani": "http://a0.twimg.com/profile_images/1368089529/Jitender_Aswani_normal.jpg", 
+        "IrsjadC": "http://a0.twimg.com/profile_images/1785007336/image_normal.jpg", 
+        "systemsflow": "http://a0.twimg.com/profile_images/1326361305/SFITwitter_normal.gif", 
+        "darachennis": "http://a0.twimg.com/profile_images/2224518169/Screen_shot_2012-05-16_at_22.57.49_normal.png", 
+        "MDMGeek": "http://a0.twimg.com/profile_images/1220200142/dilbert_normal.jpg", 
+        "jillfitz04": "http://a0.twimg.com/profile_images/1642521966/JillF2_sm_normal.jpg", 
+        "ceraitinc": "http://a0.twimg.com/profile_images/1633752463/fb_logo_5_normal.jpg", 
+        "agiledss": "http://a0.twimg.com/profile_images/756246618/agileDSS_Logo_Horizontal_Youtube_normal.JPG", 
+        "bobtricarico": "http://a0.twimg.com/profile_images/2395325948/image_normal.jpg", 
+        "willynet": "http://a0.twimg.com/profile_images/1092415273/39ded88f-87df-4a2e-92dd-a9fff8f071eb_normal.png", 
         "snakeynag": "http://a0.twimg.com/profile_images/1228725341/AdityaNag_normal.jpg", 
-        "EdgarHaren": "http://a0.twimg.com/profile_images/2234279154/CROP_Edgar_Haren_normal.jpg", 
-        "Pushkar_atSAP": "http://a0.twimg.com/profile_images/1683518665/I815430_normal.jpg", 
-        "OrquideoM": "http://a0.twimg.com/profile_images/1415936683/OrquideoM_normal.jpg", 
-        "oraclehardware": "http://a0.twimg.com/profile_images/2044190754/Twitter_avatar_normal.gif", 
-        "olesovhcom": "http://a0.twimg.com/profile_images/1334060030/image_normal.jpg", 
-        "alanmstein": "http://a0.twimg.com/profile_images/2194816341/cropped_after_Mavs_champ_game_normal.jpg", 
-        "WorkbridgeMA": "http://a0.twimg.com/profile_images/1746108514/avatar-wb-bos_normal.png", 
-        "gretchen_malay": "http://a0.twimg.com/profile_images/82001644/GM_face_Dec08_normal.jpg", 
-        "DGleebits": "http://a0.twimg.com/profile_images/1520153825/1310282366138_normal.jpg", 
-        "CrystaAnderson": "http://a0.twimg.com/profile_images/1810947426/Anderson-cropped-final3-150x190_normal.jpg", 
-        "pauljesselson": "http://a0.twimg.com/profile_images/2425493648/o7o5s1duu7autse14sv7_normal.jpeg", 
-        "el_joys": "http://a0.twimg.com/profile_images/2323823450/y2qqnm2wrqleoeb8nb6p_normal.jpeg", 
-        "tvankemmel": "http://a0.twimg.com/profile_images/690329003/OnlinePasfotoTom3_normal.jpg", 
-        "monicasmith1012": "http://a0.twimg.com/profile_images/1577153243/boston_normal.jpg", 
-        "ReverendDrDash": "http://a0.twimg.com/profile_images/1705384496/DasherDeer_normal.gif", 
-        "ArcMail": "http://a0.twimg.com/profile_images/1317347101/arc_4C_shine_stacked_A_normal.jpg", 
-        "GilPress": "http://a0.twimg.com/profile_images/1393089359/BinaryData50_normal.png", 
-        "salfordsystems": "http://a0.twimg.com/profile_images/1534901049/logo__Converted__copy_normal.jpg", 
-        "xrodriguez_mobi": "http://a0.twimg.com/profile_images/1109055070/javi_normal.png", 
-        "DanJenkins43": "http://a0.twimg.com/profile_images/2076886899/Dan_Jenkins_normal.png", 
-        "Ulitzer": "http://a0.twimg.com/profile_images/745317755/Ulitzer_Logo_100_normal.png", 
-        "GinaMelani": "http://a0.twimg.com/profile_images/1972095627/gm2_normal.jpg", 
-        "bud_koch": "http://a0.twimg.com/profile_images/2234291260/Bud_Koch_normal.jpg", 
-        "BigDataExpo": "http://a0.twimg.com/profile_images/1812857938/image_normal.jpg", 
-        "_bobwilliams": "http://a0.twimg.com/profile_images/1551592134/photo_normal.JPG", 
-        "Datagrrl": "http://a0.twimg.com/profile_images/1401918569/April_Reeve_Cartoon_Head_normal.jpg", 
-        "GonzalezCarmen": "http://a0.twimg.com/profile_images/2204525026/image_normal.jpg", 
-        "mattray": "http://a0.twimg.com/profile_images/1233247380/opscode_HEAD_normal.jpg", 
-        "SGIisbigdata": "http://a0.twimg.com/profile_images/2427637224/a7mryckbcfm3kx1tjvwr_normal.gif", 
-        "Pentaho": "http://a0.twimg.com/profile_images/1938362448/12-008-Pentaho-FB-profile-v5_normal.png", 
-        "J_VanderArk": "http://a0.twimg.com/profile_images/2170598003/Jon_Vander_Ark_4x3_small_normal.jpg", 
-        "DataOnWheels": "http://a0.twimg.com/profile_images/1591819678/SteveScoutmaster_normal.jpg", 
-        "DnBUS": "http://a0.twimg.com/profile_images/1139452012/200px-DunBradstreet.svg_normal.png", 
-        "Inthehighest1": "http://a0.twimg.com/profile_images/1834152614/l__2__normal.jpg", 
-        "cfoundryexpo": "http://a0.twimg.com/profile_images/1309359449/Cloud_Foundry_Summit_100_normal.jpg", 
-        "MaureenOGara": "http://a0.twimg.com/profile_images/799332620/Maureen_OGara_120_normal.jpg", 
-        "pibigibi": "http://a0.twimg.com/profile_images/1419647473/distillsmaller_normal.jpg", 
-        "acrossoft": "http://a0.twimg.com/profile_images/1492571393/logo_normal.png", 
-        "Teradata": "http://a0.twimg.com/profile_images/2205190582/uzxlsvtqsvm8428ib18m_normal.jpeg", 
-        "aliancati": "http://a0.twimg.com/profile_images/1284053875/Logomarca_alianca_quadrado_normal.jpg", 
-        "MaryMarkowicz": "http://a0.twimg.com/profile_images/1841747764/Mary_Ann_Headshot_B_normal.jpg", 
-        "eric_kavanagh": "http://a0.twimg.com/profile_images/1633919683/EricKavanagh_normal.jpg", 
-        "coachboz68": "http://a0.twimg.com/profile_images/1927430676/1237755651_un2zy-S_normal.jpg", 
-        "gnostiteautvn": "http://a0.twimg.com/profile_images/1535284404/182630_106157429464871_100002118423137_54255_3227669_n_normal.jpg", 
-        "debwalery": "http://a0.twimg.com/profile_images/555746077/HeadShot_normal.JPG", 
-        "opscode": "http://a0.twimg.com/profile_images/434042687/opscode-logo-400x400_normal.png", 
-        "BIZ_Advisor1": "http://a0.twimg.com/profile_images/2327763754/p2lqcob8on7eenbs6jlt_normal.jpeg", 
-        "MColebrook": "http://a0.twimg.com/profile_images/1292760515/mark_normal.jpg", 
-        "SSIinc01": "http://a0.twimg.com/profile_images/2326122271/cslnx2b93zbdomdg7omr_normal.png", 
-        "Dirk_deRoos": "http://a0.twimg.com/profile_images/2207113971/DirkDeRoos_normal.png", 
-        "rw_44": "http://a0.twimg.com/profile_images/1128782603/as_normal.jpg", 
-        "kdnuggets": "http://a0.twimg.com/profile_images/1174228552/gpsc2_normal.jpg", 
-        "impnamed": "http://a0.twimg.com/profile_images/1174051828/image_normal.jpg", 
-        "VirtualizationE": "http://a0.twimg.com/profile_images/70929050/STORY_GRAPHIC_HUGE_VIRTUALIZATION_NEW_normal.jpg", 
-        "danklynn": "http://a0.twimg.com/profile_images/1813282463/danlynn-avatar_normal.png", 
-        "tinagroves": "http://a0.twimg.com/profile_images/1208579306/2010-11_Tina_web_version_normal.jpg", 
-        "iaflash": "http://a0.twimg.com/profile_images/725284435/i1_normal.jpg", 
-        "esg_global": "http://a0.twimg.com/profile_images/430069600/esg_logo_twitter_normal.png", 
-        "IBMNetezza": "http://a0.twimg.com/profile_images/1901314623/twitter-profile-pic_normal.jpg", 
-        "FlexITyHealth": "http://a0.twimg.com/profile_images/1407902560/flexity_healthcare_logo_normal.png", 
-        "businessobjects": "http://a0.twimg.com/profile_images/58103942/bo_normal.jpg", 
-        "KMH_nowinVA": "http://a0.twimg.com/profile_images/1042274069/KMH4_normal.jpg", 
+        "darronbatton": "http://a0.twimg.com/profile_images/2453174154/06ac3znmzg717wm7z80b_normal.jpeg", 
+        "lletourmy": "http://a0.twimg.com/profile_images/1279183294/identite_LLY_2_normal.jpg", 
+        "saffrontech": "http://a0.twimg.com/profile_images/200287539/saffron-squares_normal.png", 
+        "JoshMoskowitz": "http://a0.twimg.com/profile_images/2460366561/27bt3o0w5jyxjraiq4qr_normal.jpeg", 
+        "alexio": "http://a0.twimg.com/profile_images/1146115923/alexio_forte_dei_marmi_normal.jpg", 
+        "brentskinner": "http://a0.twimg.com/profile_images/267395108/rearview_mirror_II_normal.jpg", 
+        "marcusborba": "http://a0.twimg.com/profile_images/423471047/MarcusBorba_normal.jpg", 
+        "josuebw": "http://a0.twimg.com/profile_images/1588108692/P12205832_normal.JPG", 
+        "SeanPODowd": "http://a0.twimg.com/profile_images/1885128877/SeanODowd_5x7HighResedited_edited-3_normal.jpg", 
+        "BestOfAnalytics": "http://a0.twimg.com/profile_images/1735178697/Best_of_Analytics_-_white_logo_modified_normal.PNG", 
         "vipsgupta": "http://a0.twimg.com/profile_images/1623645948/VipsCaricature_normal.jpg", 
-        "tadmartin": "http://a0.twimg.com/profile_images/2181917819/TAD_normal.jpg", 
-        "WebSphereFrance": "http://a0.twimg.com/profile_images/1187170362/logo_ibm_websphere-full.gif_normal.jpg", 
-        "pisarose": "http://a0.twimg.com/profile_images/1767288324/sqwebLucas__Shelly-2800-edit_normal.jpg", 
-        "InformaticaCorp": "http://a0.twimg.com/profile_images/1863939374/infacorp_twitter_icon_128x128_normal.gif", 
-        "DTurnerBlogs": "http://a0.twimg.com/profile_images/1732104883/photo_normal.JPG", 
-        "Sabrina_Atienza": "http://a0.twimg.com/profile_images/2232324294/twitter1_normal.jpg", 
-        "TickLabs": "http://a0.twimg.com/profile_images/2410274133/ib65xhl9iwrs0nniuj0q_normal.png", 
-        "garydata": "http://a0.twimg.com/profile_images/1866711544/111784_ip_2_normal.jpg", 
-        "wmp182": "http://a0.twimg.com/profile_images/2223448580/IMG_0279_normal.jpg", 
-        "pdipao": "http://a0.twimg.com/profile_images/2323096455/ie6d7zexkb52v6ojptfm_normal.jpeg", 
-        "vGazza": "http://a0.twimg.com/profile_images/2285120159/3j9tfr6j88383utnthz4_normal.png", 
-        "HMCollab": "http://a0.twimg.com/profile_images/2238140069/12UIC101_logo_social_reversed_normal.jpg", 
-        "1gst3r": "http://a0.twimg.com/profile_images/282872442/wallride_normal.jpeg", 
-        "mkoeppen": "http://a0.twimg.com/profile_images/1609362571/2007-11_Osnabr_ck_001_normal.jpg", 
-        "CloudJobFair": "http://a0.twimg.com/profile_images/1020913034/Cloud_Job_Fair_Logo_200_normal.jpg", 
-        "mnemecek": "http://a0.twimg.com/profile_images/812406718/Nemecek_Mike_normal.jpg", 
-        "marilyn_cohodas": "http://a0.twimg.com/profile_images/1153602003/marilynphoto_thmb2_normal.jpg", 
-        "kristathomas": "http://a0.twimg.com/profile_images/1535069687/krista_normal.jpg", 
-        "Cistecca": "http://a0.twimg.com/profile_images/1362010886/msn_redes_sociales_normal.jpg", 
-        "CloudGathering": "http://a0.twimg.com/profile_images/2241827898/Cumulus_clouds_in_fair_weather_normal.jpg", 
-        "quentinrousseau": "http://a0.twimg.com/profile_images/1808833123/JMC_dieux_de_l_Olympe-34_normal.jpg", 
-        "AmyCarlson1": "http://a0.twimg.com/profile_images/1389970019/profile_photo_normal.jpg", 
-        "UtopiaInc": "http://a0.twimg.com/profile_images/2278460559/480030z4vcwyd2zga2po_normal.jpeg", 
-        "developerworks": "http://a0.twimg.com/profile_images/60341510/dWbadge_v2_normal.jpg", 
-        "markmadsen": "http://a0.twimg.com/profile_images/85422990/mark_madsen_pr_1452_bw_normal.jpg", 
-        "alexanderberler": "http://a0.twimg.com/profile_images/1172444626/berler_normal.jpg", 
-        "graemeknows": "http://a0.twimg.com/profile_images/1464814646/062cc98_normal.jpg", 
-        "ebiosca": "http://a0.twimg.com/profile_images/82232591/jo_normal.JPG", 
-        "nanofoo": "http://a0.twimg.com/profile_images/57998745/gdtHI_normal.jpg", 
-        "ayrrisbio": "http://a0.twimg.com/profile_images/2087027454/Ayrris_Facebook.180_normal.jpg", 
-        "shadowy47": "http://a0.twimg.com/profile_images/1549896839/Apple_Colors_normal.jpg", 
+        "JennMarquez": "http://a0.twimg.com/profile_images/1708219423/20111115_JennMarquez0013__2__normal.jpg", 
+        "Ashley_MW": "http://a0.twimg.com/profile_images/1424249846/oldphoto_normal.jpg", 
+        "GilPress": "http://a0.twimg.com/profile_images/1393089359/BinaryData50_normal.png", 
+        "trismartgrid": "http://a0.twimg.com/profile_images/1892094666/Picture_1__2__normal.png", 
+        "RawlinsonSimon": "http://a0.twimg.com/profile_images/2243817982/3NC25nbG_normal", 
+        "ReneeBain": "http://a0.twimg.com/profile_images/1802049649/Engaged_normal.jpg", 
+        "TimKersjes": "http://a0.twimg.com/profile_images/1525077173/07f3df7_normal.jpg", 
+        "Ulitzer": "http://a0.twimg.com/profile_images/745317755/Ulitzer_Logo_100_normal.png", 
+        "OfficeWriter": "http://a0.twimg.com/profile_images/2204529451/profilepic_normal.jpg", 
+        "BigDataExpo": "http://a0.twimg.com/profile_images/1812857938/image_normal.jpg", 
+        "GonzalezCarmen": "http://a0.twimg.com/profile_images/2204525026/image_normal.jpg", 
+        "andydances": "http://a0.twimg.com/profile_images/761078032/andysteenfbtwitterphoto_normal.bmp", 
+        "bhsduncan": "http://a0.twimg.com/profile_images/2278860947/59c9z4gt5ckcqcf83eu0_normal.png", 
+        "dartdog": "http://a0.twimg.com/profile_images/699817418/twitterProfilePhoto_normal.jpg", 
+        "cfoundryexpo": "http://a0.twimg.com/profile_images/1309359449/Cloud_Foundry_Summit_100_normal.jpg", 
+        "alteryx": "http://a0.twimg.com/profile_images/1641041699/icon-64_normal.gif", 
+        "ActiveArchive": "http://a0.twimg.com/profile_images/893360102/AA-Favicon75x75-G-1_normal.jpg", 
+        "LexisNexis": "http://a0.twimg.com/profile_images/2550561156/vfg2luaip05yzf0tzdo6_normal.jpeg", 
+        "MikeLevitz": "http://a0.twimg.com/profile_images/1768565599/close-up_profile_mike_blue_polaroid_normal.jpg", 
+        "SMSSocialHR": "http://a0.twimg.com/profile_images/2554514434/q9il1vbhec8ldhi5oyq1_normal.png", 
+        "irondata": "http://a0.twimg.com/profile_images/142389720/IDS_Bug_normal.jpg", 
+        "artate": "http://a0.twimg.com/profile_images/1164100531/fun_w_photobooth_normal.jpg", 
+        "RichardTLloyd": "http://a0.twimg.com/profile_images/1168806985/Richard_normal.jpg", 
+        "DwaineSnow": "http://a0.twimg.com/profile_images/1347506594/191_normal.jpg", 
+        "dbfclark": "http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png", 
+        "TibcoSpotfire": "http://a0.twimg.com/profile_images/76763839/Spotfire-Bullseye_only_normal.png", 
+        "CosimoAccoto": "http://a0.twimg.com/profile_images/2568624528/ncnon1ws4uuyiac6y3c5_normal.png", 
+        "malsid": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png", 
+        "VirtualizationE": "http://a0.twimg.com/profile_images/70929050/STORY_GRAPHIC_HUGE_VIRTUALIZATION_NEW_normal.jpg", 
+        "Buddahfan": "http://a0.twimg.com/profile_images/1939310550/trs80-i_normal.jpg", 
+        "CarriSchneider": "http://a0.twimg.com/profile_images/2192944884/22ec84c3-4c2b-458f-8e80-caf373528842_normal.png", 
+        "infochimps": "http://a0.twimg.com/profile_images/1652358055/chimpmark_normal.gif", 
+        "esg_global": "http://a0.twimg.com/profile_images/430069600/esg_logo_twitter_normal.png", 
+        "McKinsey": "http://a0.twimg.com/profile_images/2028317388/avatar_180_normal.jpg", 
+        "Zementis": "http://a0.twimg.com/profile_images/535829691/zementis-icon_normal.png", 
+        "SocialMediaSean": "http://a0.twimg.com/profile_images/2578549719/vos3560x0wcb8fl901ac_normal.png", 
+        "akasam": "http://a0.twimg.com/profile_images/1211169421/49932_672700878_6797049_q_normal.jpg", 
+        "robpas": "http://a0.twimg.com/profile_images/396897588/HeadShotNew_normal.jpg", 
+        "juceossa": "http://a0.twimg.com/profile_images/2308281192/gponias8tyxe9f3fjubb_normal.jpeg", 
+        "julie1research": "http://a0.twimg.com/profile_images/1708044643/Julie_S_normal.jpg", 
+        "jg21": "http://a0.twimg.com/profile_images/1378991855/Jeremy_Geelan_square_normal.jpg", 
+        "DOCUMENTmedia": "http://a0.twimg.com/profile_images/1738428034/392091_3022635283659_1196011329_3379855_2731303_n_normal.jpg", 
+        "szhorton": "http://a0.twimg.com/profile_images/2232484532/321561_913070597238_19706476_42158942_1951326309_n_normal.jpg", 
+        "Teradata": "http://a0.twimg.com/profile_images/2205190582/uzxlsvtqsvm8428ib18m_normal.jpeg", 
+        "Darryl_McDonald": "http://a0.twimg.com/profile_images/2190201036/darryl_normal.jpg", 
+        "YvesMulkers": "http://a0.twimg.com/profile_images/1834305939/LinkedIn_normal.jpg", 
+        "haydenir": "http://a0.twimg.com/profile_images/241999366/hayden_logoVERT_normal.jpg", 
+        "IntelITS": "http://a0.twimg.com/profile_images/1813353831/Intel_ITS_normal.png", 
+        "elGamificator": "http://a0.twimg.com/profile_images/1573954715/ELGAMIFICATOR_logo_mascot_normal.png", 
+        "colinmasson": "http://a0.twimg.com/profile_images/57042182/cmassonBIO_normal.jpg", 
         "mydatanews": "http://a0.twimg.com/profile_images/1187934628/14536_213156002546_678577546_3682224_5957302_n_normal.jpg", 
-        "pinellas247": "http://a0.twimg.com/profile_images/1096946919/pinellas247_normal.png", 
-        "BeccaNY": "http://a0.twimg.com/profile_images/234979114/RGPhoto-lowres-small_normal.png", 
-        "BigDataDiary": "http://a0.twimg.com/profile_images/1805849288/bigdata_normal.PNG", 
-        "KerstinWoods": "http://a0.twimg.com/profile_images/2278170069/ic006jmr1rtuwgl6wpkq_normal.jpeg", 
-        "Hermans85": "http://a0.twimg.com/profile_images/1498972076/Rob_Hermans_twitter_normal.jpg", 
-        "zoranco": "http://a0.twimg.com/profile_images/1768993352/image_normal.jpg", 
-        "dbanalytics": "http://a0.twimg.com/profile_images/1677349089/DB_logo_only_normal.jpg", 
-        "IBM_InfoSphere": "http://a0.twimg.com/profile_images/357366799/InfoSphere_200x200_normal.jpg", 
-        "SAP_VisualEnt": "http://a0.twimg.com/profile_images/2278226019/g6v8g6ind0q0ua4i7zvf_normal.png", 
-        "boisemike55": "http://a0.twimg.com/profile_images/2394612860/i93rr9iyr9pgipiyakub_normal.jpeg", 
-        "SocAnalytics": "http://a0.twimg.com/profile_images/2303632854/0jkze8bel8ews7x9sv2v_normal.jpeg", 
-        "Diana1003": "http://a0.twimg.com/profile_images/1197287555/DiMaiuta_Diana_3758_normal.jpg", 
-        "kbillings": "http://a0.twimg.com/profile_images/217886813/dana_s_bday_me_normal.jpg", 
-        "LusciousPear": "http://a0.twimg.com/profile_images/1933083156/derpface_normal.jpeg", 
-        "dudulima": "http://a0.twimg.com/profile_images/1933662291/Dudu_normal.jpg", 
-        "CloudExpo": "http://a0.twimg.com/profile_images/1338917249/cloud-square2_normal.jpg", 
-        "MCPRINCE_18": "http://a0.twimg.com/profile_images/2279875816/r27fnnh2f4rinxr1y0cq_normal.jpeg", 
-        "DnB360": "http://a0.twimg.com/profile_images/1130220377/DNB_360_logo_rgb_sml_twitter_super_sml_normal.png", 
-        "TechWriterNinja": "http://a0.twimg.com/profile_images/2188846884/Johncurlyfro_smaller_normal.jpg", 
+        "Beckland": "http://a0.twimg.com/profile_images/112391018/empphoto_NING_JamieB_normal.jpg", 
+        "HaleChris": "http://a0.twimg.com/profile_images/2391543763/9ilf18541d2tbbcxch6a_normal.jpeg", 
+        "BigDataClub": "http://a0.twimg.com/profile_images/1894932257/tcelab_sq_logo_reasonably_small_normal.png", 
+        "CloudJobFair": "http://a0.twimg.com/profile_images/1020913034/Cloud_Job_Fair_Logo_200_normal.jpg", 
+        "ISpeakAnalytics": "http://a0.twimg.com/profile_images/2113535700/New_ACN_Logo_normal.jpg", 
+        "cjcarpenter": "http://a0.twimg.com/profile_images/2465374280/2tdrpkhd55ycwua6xm13_normal.jpeg", 
+        "moorejh": "http://a0.twimg.com/profile_images/289160272/Jason-Science-resized_normal.jpg", 
+        "BrevaSystems": "http://a0.twimg.com/profile_images/551595177/breva_logo_dsktp_normal.jpg", 
+        "dennisjwaldron": "http://a0.twimg.com/profile_images/534440853/Dennis_Waldron_Pic_normal.JPG", 
+        "ricksschultz": "http://a0.twimg.com/profile_images/1091117372/Rick_Schultz_2_normal.jpg", 
+        "Rick345": "http://a0.twimg.com/profile_images/1227426859/Copy_of_P3132185_normal.jpg", 
+        "Stephen_Tucker": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png", 
+        "TopDevTweets": "http://a0.twimg.com/profile_images/1191139755/attachment.ashx__2__normal.png", 
+        "StatSoft": "http://a0.twimg.com/profile_images/125216588/StatSoft_Tweet_normal.jpg", 
+        "VAPittsburgh": "http://a0.twimg.com/profile_images/770079633/VA_logo_normal.jpg", 
+        "masareus": "http://a0.twimg.com/profile_images/351874310/Mark_normal.jpg", 
+        "ISTC_BigData": "http://a0.twimg.com/profile_images/2508019985/fppdbk4vem14i9dz4e7t_normal.png", 
+        "betsyatoreilly": "http://a0.twimg.com/profile_images/55850669/betsy-buddy-icon_normal.jpg", 
+        "SorensenMJ": "http://a0.twimg.com/profile_images/1824207047/SorensenMJ_normal.JPG", 
+        "markrotoole": "http://a0.twimg.com/profile_images/555045250/madmen_icon_normal.jpg", 
+        "heddanewman": "http://a0.twimg.com/profile_images/1770016165/WP_001844_normal.jpg", 
+        "lindacadigan": "http://a0.twimg.com/profile_images/57542716/th_DSCF1439_1__normal.jpg", 
+        "Natasha_D_G": "http://a0.twimg.com/profile_images/227483894/fortwitter_normal.gif", 
+        "GillCraig": "http://a0.twimg.com/profile_images/776860066/Gill_Craig_2_B_W_normal.jpg", 
+        "JRguezG": "http://a0.twimg.com/profile_images/2578196311/2n468a0jyhmd0h28iqbp_normal.jpeg", 
+        "marksmithvr": "http://a0.twimg.com/profile_images/2303014322/image_normal.jpg", 
+        "mitchderman": "http://a0.twimg.com/profile_images/2514510970/56etjhjytzlyrb5k80mz_normal.jpeg", 
         "SOAWorldExpo": "http://a0.twimg.com/profile_images/70794220/STORY_GRAPHIC_HUGE_SOA_NEW_2_normal.jpg", 
-        "tokutek": "http://a0.twimg.com/profile_images/290432047/twitter_logo_normal.jpg", 
-        "juliebhunt": "http://a0.twimg.com/profile_images/468502341/Julie4_normal.jpg", 
-        "EMCchannel": "http://a0.twimg.com/profile_images/1551886044/theone_normal.png", 
-        "brobbins": "http://a0.twimg.com/profile_images/54729703/BR_headshot_normal.JPG", 
-        "ec_andy": "http://a0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png", 
-        "y3ty": "http://a0.twimg.com/profile_images/2045428602/victor_twitter_original_480px_normal.png", 
-        "PritimanPanda": "http://a0.twimg.com/profile_images/1851220871/2011-10-18_14.39.04_2_normal.jpg", 
-        "mattcasters": "http://a0.twimg.com/profile_images/1338492837/duiker-bijgesneden-klein-512x512_normal.png", 
-        "debbsmn": "http://a0.twimg.com/profile_images/1593297327/IMG_6915_2_normal.JPG", 
-        "Quant5Inc": "http://a0.twimg.com/profile_images/1877219601/Quant_5_whitebg_logo_normal.jpg", 
+        "InfoMgmtExec": "http://a0.twimg.com/profile_images/1604742191/RL_-_SAS_DM_Event_Small_normal.jpg", 
+        "TouriaEng": "http://a0.twimg.com/profile_images/2320261832/uckwh3qwic07kt7c72y6_normal.jpeg", 
+        "nitinpj": "http://a0.twimg.com/profile_images/1261966409/jain125x125_normal.jpg", 
+        "chrisrampley": "http://a0.twimg.com/profile_images/1360797366/headshot_normal.jpg", 
+        "CloudExpo": "http://a0.twimg.com/profile_images/1338917249/cloud-square2_normal.jpg", 
+        "b_walinski": "http://a0.twimg.com/profile_images/2449455595/u08327G6_normal", 
+        "rbrezina": "http://a0.twimg.com/profile_images/1090515620/20100713_rbrezina_normal.jpg", 
+        "Gardner_Katie": "http://a0.twimg.com/profile_images/1110905969/photo_normal.jpg", 
+        "Richardk1968": "http://a0.twimg.com/profile_images/1178690137/DSCN1113__2__-_Magic_Picture_normal.jpg", 
+        "CenturyLinkBiz": "http://a0.twimg.com/profile_images/1482958906/ctlLogo_normal.gif", 
+        "KarenGoulart": "http://a0.twimg.com/profile_images/1750355467/72270007_normal.JPG", 
+        "biconnections": "http://a0.twimg.com/profile_images/1866862979/50519_388209157862059_947380685_n_normal.jpg", 
+        "softartisans": "http://a0.twimg.com/profile_images/2190328448/profile-pic_normal.jpg", 
+        "AlexGoldsmith": "http://a0.twimg.com/profile_images/2330964463/updfwgc2mu5l9cs6cix9_normal.jpeg", 
         "AjaxRIAexpo": "http://a0.twimg.com/profile_images/70774469/AJAXWorld_RIA_Conference_Logo_normal.jpg", 
-        "TerraEchos": "http://a0.twimg.com/profile_images/1604592029/TerraEchos_Twitter_normal.jpg", 
+        "axelarge": "http://a0.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+        "SerenaLos": "http://a0.twimg.com/profile_images/1865478508/userprofilephoto_normal.jpg", 
+        "mattbenati": "http://a0.twimg.com/profile_images/1896810440/Matt_Benati_NewHeadshot_3x3_300dpi_normal.jpeg", 
         "sysconmedia": "http://a0.twimg.com/profile_images/745331242/SYS-CON_Media_Logo_100_normal.png", 
-        "1RogerWoodward": "http://a0.twimg.com/profile_images/291050577/InstituteLogo_73x73_normal.jpg", 
-        "Geoffmuse": "http://a0.twimg.com/profile_images/2318943609/cooyl8hoeoj7aa6g1rmo_normal.jpeg", 
         "hyounpark": "http://a0.twimg.com/profile_images/1251670586/hyounpark_normal.jpeg", 
-        "robinbloor": "http://a0.twimg.com/profile_images/1151000615/Rbface_normal.jpg", 
-        "schwartzlaws": "http://a0.twimg.com/profile_images/1468026033/Headshot_2d_normal.jpg", 
-        "EMC_C": "http://a0.twimg.com/profile_images/1222024899/emcconsulttwit_normal.jpg", 
-        "olopez": "http://a0.twimg.com/profile_images/2381361451/qjkcoa9i5ua7tguig0ml_normal.jpeg", 
-        "ConsultRamy": "http://a0.twimg.com/profile_images/757865569/Photo_00007_normal.jpg", 
-        "PerfectSearchIT": "http://a0.twimg.com/profile_images/1376514865/ps-icon_normal.jpg", 
-        "pcudia": "http://a0.twimg.com/profile_images/1645336711/profile_pic_normal.jpg", 
-        "gerardocerpa": "http://a0.twimg.com/profile_images/1697403164/1229176920515_f_normal.jpg"
+        "mreffel": "http://a0.twimg.com/profile_images/267897644/MR09_normal.jpg", 
+        "attunity": "http://a0.twimg.com/profile_images/2507618309/aviclm39v5clyywv1sms_normal.jpeg", 
+        "TalentCulture": "http://a0.twimg.com/profile_images/1844533675/tw_avatar_normal.png"
     }, 
     "links": [
         {
-            "source": 69, 
+            "source": 185, 
+            "target": 1
+        }, 
+        {
+            "source": 127, 
+            "target": 1
+        }, 
+        {
+            "source": 169, 
+            "target": 1
+        }, 
+        {
+            "source": 34, 
+            "target": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 1
+        }, 
+        {
+            "source": 169, 
             "target": 2
         }, 
         {
-            "source": 96, 
-            "target": 3
+            "source": 58, 
+            "target": 2
         }, 
         {
-            "source": 42, 
-            "target": 4
-        }, 
-        {
-            "source": 105, 
-            "target": 7
-        }, 
-        {
-            "source": 229, 
-            "target": 8
-        }, 
-        {
-            "source": 279, 
-            "target": 8
-        }, 
-        {
-            "source": 211, 
-            "target": 9
-        }, 
-        {
-            "source": 201, 
-            "target": 11
-        }, 
-        {
-            "source": 79, 
-            "target": 12
-        }, 
-        {
-            "source": 268, 
-            "target": 13
-        }, 
-        {
-            "source": 114, 
-            "target": 15
-        }, 
-        {
-            "source": 138, 
-            "target": 17
-        }, 
-        {
-            "source": 118, 
-            "target": 18
-        }, 
-        {
-            "source": 131, 
-            "target": 18
-        }, 
-        {
-            "source": 263, 
-            "target": 18
-        }, 
-        {
-            "source": 228, 
-            "target": 20
-        }, 
-        {
-            "source": 19, 
-            "target": 21
-        }, 
-        {
-            "source": 271, 
-            "target": 23
-        }, 
-        {
-            "source": 238, 
-            "target": 24
-        }, 
-        {
-            "source": 205, 
-            "target": 27
-        }, 
-        {
-            "source": 111, 
-            "target": 27
-        }, 
-        {
-            "source": 62, 
-            "target": 29
+            "source": 137, 
+            "target": 2
         }, 
         {
             "source": 28, 
-            "target": 29
+            "target": 4
         }, 
         {
-            "source": 86, 
-            "target": 30
+            "source": 219, 
+            "target": 5
         }, 
         {
-            "source": 107, 
-            "target": 30
+            "source": 125, 
+            "target": 6
         }, 
         {
-            "source": 108, 
-            "target": 30
+            "source": 169, 
+            "target": 10
         }, 
         {
-            "source": 91, 
-            "target": 30
+            "source": 199, 
+            "target": 12
         }, 
         {
-            "source": 176, 
-            "target": 30
+            "source": 13, 
+            "target": 13
         }, 
         {
-            "source": 264, 
-            "target": 30
+            "source": 169, 
+            "target": 14
         }, 
         {
-            "source": 94, 
-            "target": 30
+            "source": 169, 
+            "target": 15
         }, 
         {
-            "source": 234, 
-            "target": 30
+            "source": 169, 
+            "target": 16
         }, 
         {
-            "source": 225, 
-            "target": 30
+            "source": 169, 
+            "target": 17
         }, 
         {
-            "source": 136, 
-            "target": 30
+            "source": 169, 
+            "target": 18
         }, 
         {
-            "source": 47, 
-            "target": 30
+            "source": 133, 
+            "target": 22
         }, 
         {
-            "source": 26, 
-            "target": 36
+            "source": 224, 
+            "target": 23
+        }, 
+        {
+            "source": 169, 
+            "target": 23
+        }, 
+        {
+            "source": 169, 
+            "target": 26
+        }, 
+        {
+            "source": 33, 
+            "target": 27
+        }, 
+        {
+            "source": 169, 
+            "target": 27
+        }, 
+        {
+            "source": 9, 
+            "target": 28
+        }, 
+        {
+            "source": 157, 
+            "target": 28
+        }, 
+        {
+            "source": 242, 
+            "target": 28
+        }, 
+        {
+            "source": 169, 
+            "target": 28
+        }, 
+        {
+            "source": 152, 
+            "target": 31
+        }, 
+        {
+            "source": 77, 
+            "target": 31
+        }, 
+        {
+            "source": 218, 
+            "target": 35
+        }, 
+        {
+            "source": 8, 
+            "target": 35
         }, 
         {
             "source": 121, 
             "target": 36
         }, 
         {
-            "source": 113, 
-            "target": 36
-        }, 
-        {
-            "source": 141, 
-            "target": 36
-        }, 
-        {
-            "source": 109, 
+            "source": 169, 
             "target": 37
         }, 
         {
-            "source": 50, 
-            "target": 37
-        }, 
-        {
-            "source": 236, 
-            "target": 37
-        }, 
-        {
-            "source": 228, 
-            "target": 38
-        }, 
-        {
-            "source": 227, 
+            "source": 19, 
             "target": 39
         }, 
         {
-            "source": 222, 
-            "target": 42
-        }, 
-        {
-            "source": 157, 
-            "target": 43
-        }, 
-        {
-            "source": 117, 
-            "target": 45
-        }, 
-        {
-            "source": 48, 
-            "target": 49
-        }, 
-        {
-            "source": 189, 
-            "target": 49
-        }, 
-        {
-            "source": 5, 
-            "target": 51
-        }, 
-        {
-            "source": 177, 
-            "target": 52
-        }, 
-        {
-            "source": 22, 
-            "target": 53
+            "source": 9, 
+            "target": 40
         }, 
         {
             "source": 169, 
-            "target": 55
+            "target": 40
         }, 
         {
-            "source": 231, 
-            "target": 55
+            "source": 38, 
+            "target": 40
         }, 
         {
-            "source": 1, 
-            "target": 56
+            "source": 270, 
+            "target": 41
         }, 
         {
-            "source": 277, 
-            "target": 57
+            "source": 169, 
+            "target": 41
         }, 
         {
-            "source": 258, 
-            "target": 60
+            "source": 214, 
+            "target": 42
+        }, 
+        {
+            "source": 141, 
+            "target": 44
+        }, 
+        {
+            "source": 9, 
+            "target": 45
+        }, 
+        {
+            "source": 169, 
+            "target": 45
+        }, 
+        {
+            "source": 169, 
+            "target": 46
         }, 
         {
             "source": 72, 
-            "target": 61
+            "target": 47
         }, 
         {
-            "source": 199, 
-            "target": 63
+            "source": 169, 
+            "target": 49
         }, 
         {
-            "source": 269, 
-            "target": 64
-        }, 
-        {
-            "source": 7, 
-            "target": 64
-        }, 
-        {
-            "source": 237, 
-            "target": 65
-        }, 
-        {
-            "source": 35, 
-            "target": 67
-        }, 
-        {
-            "source": 155, 
-            "target": 71
-        }, 
-        {
-            "source": 212, 
-            "target": 74
-        }, 
-        {
-            "source": 118, 
-            "target": 75
-        }, 
-        {
-            "source": 0, 
-            "target": 77
-        }, 
-        {
-            "source": 40, 
-            "target": 77
-        }, 
-        {
-            "source": 32, 
-            "target": 77
-        }, 
-        {
-            "source": 37, 
-            "target": 78
-        }, 
-        {
-            "source": 50, 
-            "target": 78
-        }, 
-        {
-            "source": 180, 
-            "target": 80
-        }, 
-        {
-            "source": 209, 
-            "target": 82
-        }, 
-        {
-            "source": 89, 
-            "target": 82
-        }, 
-        {
-            "source": 54, 
-            "target": 82
-        }, 
-        {
-            "source": 46, 
-            "target": 82
-        }, 
-        {
-            "source": 156, 
-            "target": 84
-        }, 
-        {
-            "source": 81, 
-            "target": 84
-        }, 
-        {
-            "source": 76, 
-            "target": 88
-        }, 
-        {
-            "source": 268, 
-            "target": 90
-        }, 
-        {
-            "source": 117, 
-            "target": 93
-        }, 
-        {
-            "source": 41, 
-            "target": 95
-        }, 
-        {
-            "source": 240, 
-            "target": 97
-        }, 
-        {
-            "source": 92, 
-            "target": 98
-        }, 
-        {
-            "source": 87, 
-            "target": 100
-        }, 
-        {
-            "source": 195, 
-            "target": 100
-        }, 
-        {
-            "source": 245, 
-            "target": 100
-        }, 
-        {
-            "source": 34, 
-            "target": 100
-        }, 
-        {
-            "source": 164, 
-            "target": 100
-        }, 
-        {
-            "source": 238, 
-            "target": 100
-        }, 
-        {
-            "source": 59, 
-            "target": 102
-        }, 
-        {
-            "source": 256, 
-            "target": 103
-        }, 
-        {
-            "source": 154, 
-            "target": 104
-        }, 
-        {
-            "source": 120, 
-            "target": 106
-        }, 
-        {
-            "source": 183, 
-            "target": 112
-        }, 
-        {
-            "source": 126, 
-            "target": 116
-        }, 
-        {
-            "source": 276, 
-            "target": 116
+            "source": 201, 
+            "target": 51
         }, 
         {
             "source": 110, 
-            "target": 116
+            "target": 52
         }, 
         {
-            "source": 117, 
-            "target": 117
+            "source": 169, 
+            "target": 53
+        }, 
+        {
+            "source": 193, 
+            "target": 54
+        }, 
+        {
+            "source": 164, 
+            "target": 55
+        }, 
+        {
+            "source": 11, 
+            "target": 56
+        }, 
+        {
+            "source": 9, 
+            "target": 57
+        }, 
+        {
+            "source": 169, 
+            "target": 57
+        }, 
+        {
+            "source": 28, 
+            "target": 59
+        }, 
+        {
+            "source": 169, 
+            "target": 62
+        }, 
+        {
+            "source": 169, 
+            "target": 63
+        }, 
+        {
+            "source": 73, 
+            "target": 64
+        }, 
+        {
+            "source": 9, 
+            "target": 65
+        }, 
+        {
+            "source": 169, 
+            "target": 65
+        }, 
+        {
+            "source": 9, 
+            "target": 66
+        }, 
+        {
+            "source": 169, 
+            "target": 66
+        }, 
+        {
+            "source": 253, 
+            "target": 66
+        }, 
+        {
+            "source": 21, 
+            "target": 67
+        }, 
+        {
+            "source": 76, 
+            "target": 68
+        }, 
+        {
+            "source": 169, 
+            "target": 68
+        }, 
+        {
+            "source": 13, 
+            "target": 69
+        }, 
+        {
+            "source": 169, 
+            "target": 70
+        }, 
+        {
+            "source": 81, 
+            "target": 71
+        }, 
+        {
+            "source": 169, 
+            "target": 73
+        }, 
+        {
+            "source": 225, 
+            "target": 74
+        }, 
+        {
+            "source": 217, 
+            "target": 75
         }, 
         {
             "source": 276, 
-            "target": 119
+            "target": 80
         }, 
         {
-            "source": 137, 
-            "target": 119
+            "source": 9, 
+            "target": 81
         }, 
         {
-            "source": 230, 
-            "target": 119
+            "source": 169, 
+            "target": 81
         }, 
         {
-            "source": 181, 
-            "target": 123
-        }, 
-        {
-            "source": 20, 
-            "target": 125
-        }, 
-        {
-            "source": 162, 
-            "target": 128
-        }, 
-        {
-            "source": 31, 
-            "target": 128
-        }, 
-        {
-            "source": 196, 
-            "target": 129
-        }, 
-        {
-            "source": 216, 
-            "target": 132
-        }, 
-        {
-            "source": 172, 
-            "target": 133
-        }, 
-        {
-            "source": 170, 
-            "target": 134
+            "source": 169, 
+            "target": 82
         }, 
         {
             "source": 83, 
-            "target": 139
-        }, 
-        {
-            "source": 117, 
-            "target": 140
-        }, 
-        {
-            "source": 117, 
-            "target": 142
-        }, 
-        {
-            "source": 194, 
-            "target": 142
-        }, 
-        {
-            "source": 45, 
-            "target": 142
-        }, 
-        {
-            "source": 179, 
-            "target": 143
-        }, 
-        {
-            "source": 117, 
-            "target": 146
-        }, 
-        {
-            "source": 93, 
-            "target": 146
-        }, 
-        {
-            "source": 220, 
-            "target": 146
-        }, 
-        {
-            "source": 273, 
-            "target": 148
+            "target": 84
         }, 
         {
             "source": 68, 
-            "target": 149
+            "target": 85
         }, 
         {
-            "source": 144, 
-            "target": 149
+            "source": 169, 
+            "target": 85
         }, 
         {
-            "source": 7, 
-            "target": 149
+            "source": 169, 
+            "target": 86
         }, 
         {
-            "source": 182, 
-            "target": 149
+            "source": 155, 
+            "target": 90
         }, 
         {
-            "source": 184, 
+            "source": 61, 
+            "target": 90
+        }, 
+        {
+            "source": 13, 
+            "target": 91
+        }, 
+        {
+            "source": 154, 
+            "target": 92
+        }, 
+        {
+            "source": 147, 
+            "target": 96
+        }, 
+        {
+            "source": 62, 
+            "target": 97
+        }, 
+        {
+            "source": 169, 
+            "target": 98
+        }, 
+        {
+            "source": 169, 
+            "target": 99
+        }, 
+        {
+            "source": 157, 
+            "target": 100
+        }, 
+        {
+            "source": 169, 
+            "target": 100
+        }, 
+        {
+            "source": 212, 
+            "target": 100
+        }, 
+        {
+            "source": 263, 
+            "target": 102
+        }, 
+        {
+            "source": 87, 
+            "target": 104
+        }, 
+        {
+            "source": 103, 
+            "target": 104
+        }, 
+        {
+            "source": 231, 
+            "target": 104
+        }, 
+        {
+            "source": 179, 
+            "target": 104
+        }, 
+        {
+            "source": 25, 
+            "target": 104
+        }, 
+        {
+            "source": 268, 
+            "target": 104
+        }, 
+        {
+            "source": 238, 
+            "target": 104
+        }, 
+        {
+            "source": 169, 
+            "target": 104
+        }, 
+        {
+            "source": 158, 
+            "target": 104
+        }, 
+        {
+            "source": 136, 
+            "target": 104
+        }, 
+        {
+            "source": 89, 
+            "target": 104
+        }, 
+        {
+            "source": 237, 
+            "target": 105
+        }, 
+        {
+            "source": 0, 
+            "target": 105
+        }, 
+        {
+            "source": 67, 
+            "target": 105
+        }, 
+        {
+            "source": 217, 
+            "target": 106
+        }, 
+        {
+            "source": 227, 
+            "target": 107
+        }, 
+        {
+            "source": 169, 
+            "target": 108
+        }, 
+        {
+            "source": 169, 
+            "target": 111
+        }, 
+        {
+            "source": 24, 
+            "target": 111
+        }, 
+        {
+            "source": 198, 
+            "target": 111
+        }, 
+        {
+            "source": 109, 
+            "target": 111
+        }, 
+        {
+            "source": 169, 
+            "target": 114
+        }, 
+        {
+            "source": 151, 
+            "target": 115
+        }, 
+        {
+            "source": 169, 
+            "target": 116
+        }, 
+        {
+            "source": 169, 
+            "target": 119
+        }, 
+        {
+            "source": 13, 
+            "target": 120
+        }, 
+        {
+            "source": 175, 
+            "target": 122
+        }, 
+        {
+            "source": 2, 
+            "target": 123
+        }, 
+        {
+            "source": 240, 
+            "target": 126
+        }, 
+        {
+            "source": 149, 
+            "target": 128
+        }, 
+        {
+            "source": 50, 
+            "target": 128
+        }, 
+        {
+            "source": 234, 
+            "target": 128
+        }, 
+        {
+            "source": 95, 
+            "target": 129
+        }, 
+        {
+            "source": 169, 
+            "target": 129
+        }, 
+        {
+            "source": 9, 
+            "target": 129
+        }, 
+        {
+            "source": 2, 
+            "target": 130
+        }, 
+        {
+            "source": 127, 
+            "target": 131
+        }, 
+        {
+            "source": 169, 
+            "target": 131
+        }, 
+        {
+            "source": 248, 
+            "target": 132
+        }, 
+        {
+            "source": 169, 
+            "target": 135
+        }, 
+        {
+            "source": 112, 
+            "target": 138
+        }, 
+        {
+            "source": 169, 
+            "target": 139
+        }, 
+        {
+            "source": 169, 
+            "target": 140
+        }, 
+        {
+            "source": 169, 
+            "target": 142
+        }, 
+        {
+            "source": 26, 
+            "target": 144
+        }, 
+        {
+            "source": 249, 
+            "target": 146
+        }, 
+        {
+            "source": 119, 
+            "target": 148
+        }, 
+        {
+            "source": 169, 
+            "target": 150
+        }, 
+        {
+            "source": 176, 
+            "target": 150
+        }, 
+        {
+            "source": 169, 
             "target": 151
         }, 
         {
             "source": 151, 
-            "target": 152
+            "target": 151
         }, 
         {
-            "source": 73, 
+            "source": 169, 
             "target": 155
         }, 
         {
-            "source": 251, 
-            "target": 158
+            "source": 9, 
+            "target": 157
         }, 
         {
-            "source": 243, 
+            "source": 169, 
+            "target": 157
+        }, 
+        {
+            "source": 94, 
+            "target": 157
+        }, 
+        {
+            "source": 217, 
+            "target": 157
+        }, 
+        {
+            "source": 169, 
+            "target": 159
+        }, 
+        {
+            "source": 79, 
+            "target": 159
+        }, 
+        {
+            "source": 169, 
             "target": 160
         }, 
         {
-            "source": 193, 
+            "source": 221, 
             "target": 161
         }, 
         {
-            "source": 16, 
-            "target": 161
+            "source": 262, 
+            "target": 162
         }, 
         {
-            "source": 32, 
-            "target": 163
+            "source": 9, 
+            "target": 162
         }, 
         {
-            "source": 18, 
-            "target": 163
+            "source": 169, 
+            "target": 162
         }, 
         {
-            "source": 142, 
-            "target": 163
-        }, 
-        {
-            "source": 192, 
-            "target": 163
-        }, 
-        {
-            "source": 171, 
-            "target": 163
-        }, 
-        {
-            "source": 266, 
-            "target": 163
-        }, 
-        {
-            "source": 85, 
-            "target": 163
-        }, 
-        {
-            "source": 126, 
-            "target": 163
-        }, 
-        {
-            "source": 274, 
-            "target": 163
-        }, 
-        {
-            "source": 117, 
-            "target": 163
-        }, 
-        {
-            "source": 187, 
-            "target": 163
-        }, 
-        {
-            "source": 93, 
-            "target": 163
-        }, 
-        {
-            "source": 278, 
-            "target": 163
-        }, 
-        {
-            "source": 105, 
-            "target": 163
-        }, 
-        {
-            "source": 118, 
+            "source": 214, 
             "target": 165
         }, 
         {
-            "source": 41, 
+            "source": 178, 
+            "target": 165
+        }, 
+        {
+            "source": 193, 
             "target": 166
         }, 
         {
-            "source": 117, 
+            "source": 177, 
+            "target": 166
+        }, 
+        {
+            "source": 32, 
+            "target": 166
+        }, 
+        {
+            "source": 169, 
             "target": 167
         }, 
         {
-            "source": 277, 
+            "source": 93, 
             "target": 168
         }, 
         {
-            "source": 118, 
-            "target": 173
-        }, 
-        {
-            "source": 145, 
-            "target": 173
-        }, 
-        {
-            "source": 242, 
-            "target": 174
-        }, 
-        {
-            "source": 14, 
-            "target": 175
-        }, 
-        {
-            "source": 271, 
-            "target": 178
-        }, 
-        {
-            "source": 150, 
-            "target": 185
-        }, 
-        {
-            "source": 122, 
-            "target": 188
-        }, 
-        {
-            "source": 10, 
-            "target": 188
-        }, 
-        {
-            "source": 181, 
-            "target": 190
-        }, 
-        {
-            "source": 150, 
-            "target": 191
-        }, 
-        {
-            "source": 150, 
-            "target": 197
-        }, 
-        {
-            "source": 135, 
-            "target": 198
-        }, 
-        {
-            "source": 247, 
-            "target": 198
-        }, 
-        {
-            "source": 58, 
-            "target": 198
-        }, 
-        {
-            "source": 127, 
-            "target": 198
-        }, 
-        {
-            "source": 33, 
-            "target": 198
-        }, 
-        {
-            "source": 142, 
-            "target": 200
-        }, 
-        {
-            "source": 48, 
-            "target": 202
-        }, 
-        {
-            "source": 189, 
-            "target": 202
+            "source": 60, 
+            "target": 170
         }, 
         {
             "source": 228, 
-            "target": 203
+            "target": 170
         }, 
         {
-            "source": 244, 
-            "target": 204
+            "source": 169, 
+            "target": 171
         }, 
         {
-            "source": 99, 
-            "target": 207
+            "source": 169, 
+            "target": 172
         }, 
         {
-            "source": 153, 
-            "target": 208
+            "source": 20, 
+            "target": 172
         }, 
         {
-            "source": 66, 
-            "target": 210
+            "source": 43, 
+            "target": 173
         }, 
         {
-            "source": 44, 
-            "target": 211
-        }, 
-        {
-            "source": 0, 
-            "target": 213
-        }, 
-        {
-            "source": 105, 
-            "target": 213
-        }, 
-        {
-            "source": 100, 
-            "target": 214
-        }, 
-        {
-            "source": 101, 
-            "target": 215
+            "source": 261, 
+            "target": 173
         }, 
         {
             "source": 220, 
-            "target": 217
+            "target": 174
         }, 
         {
-            "source": 124, 
-            "target": 218
+            "source": 169, 
+            "target": 178
         }, 
         {
-            "source": 25, 
-            "target": 219
+            "source": 169, 
+            "target": 182
         }, 
         {
-            "source": 117, 
-            "target": 220
+            "source": 169, 
+            "target": 183
         }, 
         {
-            "source": 140, 
-            "target": 220
+            "source": 78, 
+            "target": 184
         }, 
         {
-            "source": 105, 
-            "target": 220
+            "source": 254, 
+            "target": 186
         }, 
         {
-            "source": 130, 
-            "target": 221
+            "source": 88, 
+            "target": 186
         }, 
         {
-            "source": 194, 
-            "target": 223
+            "source": 169, 
+            "target": 187
         }, 
         {
-            "source": 255, 
-            "target": 224
+            "source": 169, 
+            "target": 188
         }, 
         {
-            "source": 147, 
-            "target": 226
+            "source": 169, 
+            "target": 189
         }, 
         {
-            "source": 186, 
-            "target": 226
+            "source": 169, 
+            "target": 190
         }, 
         {
-            "source": 115, 
-            "target": 226
+            "source": 163, 
+            "target": 191
+        }, 
+        {
+            "source": 73, 
+            "target": 192
+        }, 
+        {
+            "source": 169, 
+            "target": 194
+        }, 
+        {
+            "source": 73, 
+            "target": 195
+        }, 
+        {
+            "source": 210, 
+            "target": 196
+        }, 
+        {
+            "source": 171, 
+            "target": 196
+        }, 
+        {
+            "source": 134, 
+            "target": 197
+        }, 
+        {
+            "source": 9, 
+            "target": 200
+        }, 
+        {
+            "source": 169, 
+            "target": 200
+        }, 
+        {
+            "source": 46, 
+            "target": 200
+        }, 
+        {
+            "source": 169, 
+            "target": 202
+        }, 
+        {
+            "source": 29, 
+            "target": 204
+        }, 
+        {
+            "source": 169, 
+            "target": 205
+        }, 
+        {
+            "source": 180, 
+            "target": 206
+        }, 
+        {
+            "source": 169, 
+            "target": 207
+        }, 
+        {
+            "source": 207, 
+            "target": 208
+        }, 
+        {
+            "source": 171, 
+            "target": 209
+        }, 
+        {
+            "source": 169, 
+            "target": 210
         }, 
         {
             "source": 181, 
-            "target": 226
+            "target": 211
         }, 
         {
-            "source": 6, 
-            "target": 232
-        }, 
-        {
-            "source": 265, 
-            "target": 233
-        }, 
-        {
-            "source": 235, 
-            "target": 241
+            "source": 169, 
+            "target": 214
         }, 
         {
             "source": 239, 
-            "target": 246
+            "target": 215
         }, 
         {
-            "source": 249, 
-            "target": 246
+            "source": 169, 
+            "target": 216
         }, 
         {
-            "source": 104, 
-            "target": 246
+            "source": 169, 
+            "target": 219
         }, 
         {
-            "source": 272, 
-            "target": 246
+            "source": 46, 
+            "target": 220
         }, 
         {
-            "source": 70, 
-            "target": 248
+            "source": 9, 
+            "target": 222
         }, 
         {
-            "source": 62, 
-            "target": 250
+            "source": 169, 
+            "target": 222
         }, 
         {
-            "source": 28, 
-            "target": 250
+            "source": 233, 
+            "target": 223
         }, 
         {
-            "source": 159, 
-            "target": 253
+            "source": 169, 
+            "target": 224
         }, 
         {
-            "source": 206, 
-            "target": 254
+            "source": 169, 
+            "target": 226
+        }, 
+        {
+            "source": 113, 
+            "target": 229
+        }, 
+        {
+            "source": 124, 
+            "target": 229
+        }, 
+        {
+            "source": 143, 
+            "target": 230
+        }, 
+        {
+            "source": 153, 
+            "target": 232
         }, 
         {
             "source": 117, 
+            "target": 235
+        }, 
+        {
+            "source": 169, 
+            "target": 236
+        }, 
+        {
+            "source": 87, 
+            "target": 238
+        }, 
+        {
+            "source": 103, 
+            "target": 238
+        }, 
+        {
+            "source": 231, 
+            "target": 238
+        }, 
+        {
+            "source": 179, 
+            "target": 238
+        }, 
+        {
+            "source": 268, 
+            "target": 238
+        }, 
+        {
+            "source": 92, 
+            "target": 238
+        }, 
+        {
+            "source": 9, 
+            "target": 238
+        }, 
+        {
+            "source": 169, 
+            "target": 238
+        }, 
+        {
+            "source": 154, 
+            "target": 238
+        }, 
+        {
+            "source": 275, 
+            "target": 238
+        }, 
+        {
+            "source": 158, 
+            "target": 238
+        }, 
+        {
+            "source": 136, 
+            "target": 238
+        }, 
+        {
+            "source": 118, 
+            "target": 238
+        }, 
+        {
+            "source": 260, 
+            "target": 238
+        }, 
+        {
+            "source": 89, 
+            "target": 238
+        }, 
+        {
+            "source": 169, 
+            "target": 240
+        }, 
+        {
+            "source": 13, 
+            "target": 241
+        }, 
+        {
+            "source": 10, 
+            "target": 243
+        }, 
+        {
+            "source": 177, 
+            "target": 244
+        }, 
+        {
+            "source": 32, 
+            "target": 244
+        }, 
+        {
+            "source": 169, 
+            "target": 245
+        }, 
+        {
+            "source": 63, 
+            "target": 246
+        }, 
+        {
+            "source": 169, 
+            "target": 247
+        }, 
+        {
+            "source": 101, 
+            "target": 249
+        }, 
+        {
+            "source": 169, 
+            "target": 249
+        }, 
+        {
+            "source": 48, 
+            "target": 249
+        }, 
+        {
+            "source": 273, 
+            "target": 249
+        }, 
+        {
+            "source": 169, 
+            "target": 250
+        }, 
+        {
+            "source": 193, 
+            "target": 251
+        }, 
+        {
+            "source": 116, 
+            "target": 252
+        }, 
+        {
+            "source": 213, 
+            "target": 255
+        }, 
+        {
+            "source": 203, 
+            "target": 255
+        }, 
+        {
+            "source": 169, 
+            "target": 256
+        }, 
+        {
+            "source": 20, 
+            "target": 256
+        }, 
+        {
+            "source": 2, 
             "target": 257
         }, 
         {
-            "source": 138, 
+            "source": 61, 
+            "target": 258
+        }, 
+        {
+            "source": 169, 
             "target": 259
         }, 
         {
-            "source": 117, 
-            "target": 260
+            "source": 139, 
+            "target": 264
         }, 
         {
-            "source": 276, 
-            "target": 261
+            "source": 156, 
+            "target": 265
         }, 
         {
-            "source": 252, 
-            "target": 262
+            "source": 169, 
+            "target": 266
         }, 
         {
-            "source": 100, 
+            "source": 98, 
+            "target": 266
+        }, 
+        {
+            "source": 169, 
             "target": 267
         }, 
         {
-            "source": 54, 
+            "source": 147, 
+            "target": 269
+        }, 
+        {
+            "source": 145, 
             "target": 270
         }, 
         {
-            "source": 117, 
+            "source": 250, 
             "target": 271
         }, 
         {
-            "source": 216, 
-            "target": 275
+            "source": 13, 
+            "target": 272
+        }, 
+        {
+            "source": 0, 
+            "target": 274
+        }, 
+        {
+            "source": 67, 
+            "target": 274
+        }, 
+        {
+            "source": 7, 
+            "target": 274
+        }, 
+        {
+            "source": 3, 
+            "target": 274
+        }, 
+        {
+            "source": 30, 
+            "target": 274
+        }, 
+        {
+            "source": 169, 
+            "target": 277
+        }, 
+        {
+            "source": 119, 
+            "target": 278
+        }, 
+        {
+            "source": 169, 
+            "target": 279
         }
     ]
 }
